@@ -1,0 +1,7 @@
+1,$,4,,,,,,,,,,,,,,,,,
+2,$,3,,,,,,,,,,,,,,,,,
+3,$,4,,,,,,,,,,,,,,,,,
+4,$,,,,,,,,,,,,,,,,,,
+33,$,3,,09:04:22.161 [http-bio-8080-exec-5912] INFO  - EVENT,OPEN SESSION, workerId, sessionId,499ce8E5e199,,,,,,,,,,,
+828171828,$,828,171,13:16:54.876 [http-bio-8080-exec-6060] INFO  - EVENT,MICROTASK, workerId, sessionId,315cA-2A9i9-50, microtaskId, fileName,10HashPropertyBuilder_buggy.java, question,Is there maybe something wrong with the invocation of function 'calculateVIntSize' in function 'calculateNumPopulatedBytes' at line 140 (e.g.; should be at a different place in the code; should invoke a different function; has unanticipated side effects; return value is improperly used; etc.), answer,NO, duration,2419, explanation,"nl 
+    k Ml'["
