@@ -1,0 +1,2350 @@
+ You cannot do that for security reasons. The only way I know to circumvent this is by using flash / silverlight / java applet or something that works on the browser; and as part of uploading the file it also sends the path on the client	 	 	 	 	 	 
+ for (ColumnDescriptor column : columns) {if (attribute.getName().equals(column.getName())) {  if (attributeOverrides #NAME?}\n	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Try upgrading gradle.	 	 	 	 	 	 
+ endCurrentThreadExecutingCommand should check to see if the current size the element is 0 before popping.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ public class IOGraphic {private static StringBuffer sb  new StringBuffer()	 	 	 	 	 	 
+  private static final Logger logger = LoggerFactory.getLogger(Hystrix.class)	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ This method returns a copy of the original array; truncated or padded with zeros to obtain the specified length public static int[] copyOf(int[] original;int newLength)	 	 	 	 	 	 
+ first release. this basic version allows editing and playing of tiles.   some simple commands are also included	 	 	 	 	 	 
+ if f is Null then the NullPointerException should be thrown before it gets to line 84	 	 	 	 	 	 
+ I am not particularly sure about this piece of code.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ ff	 	 	 	 	 	 
+ fff	 	 	 	 	 	 
+ fff	 	 	 	 	 	 
+ The code should invoke a different function at line 82. "getFileNameOnly" needs a way to get a file name.	 	 	 	 	 	 
+ "It appears that the clause between 548 and 550 makes a call to a null pointer; but I cant tell."	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "I dont see anything that is related to getFileNameOnly in the functions."	 	 	 	 	 	 
+ change line 550 to } else {	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ I think it could be a misplaced parentheses 	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ f is not checked against the null pointer	 	 	 	 	 	 
+ it is correct	 	 	 	 	 	 
+ The objects were created; so there should be no null involved	 	 	 	 	 	 
+ I cannot determine if an error will occur	 	 	 	 	 	 
+ I cannot see anything that would cause a null pointer exception.	 	 	 	 	 	 
+ "I cant find anything wrong with this while loop. "	 	 	 	 	 	 
+ value must be not null	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ some doubt	 	 	 	 	 	 
+ no problem	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ getItems() returns an unmodifiableList which I believe does not support the add() method.	 	 	 	 	 	 
+ "It looks correct; so there shouldnt be any problems."	 	 	 	 	 	 
+ "It looks fine to me; Im not sure what could be wrong with it."	 	 	 	 	 	 
+ a object is declared but not created object	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ This method returns a copy of the original array; truncated or padded with zeros to obtain the specified length	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ "Cant tell exactly without knowing what timeout is and what it was set to. Its probably a integer or a long - in that case; it cant be null; so the conditional clause wouldnt case a NullPointerException. If its an Integer; then it could be null; but I doubt its in Integer."	 	 	 	 	 	 
+ "fastExistsCheck isnt initialized anywhere thats visible."	 	 	 	 	 	 
+ fff	 	 	 	 	 	 
+ ff	 	 	 	 	 	 
+ ff	 	 	 	 	 	 
+ fff	 	 	 	 	 	 
+ fff	 	 	 	 	 	 
+ gg	 	 	 	 	 	 
+ fff	 	 	 	 	 	 
+ yes; It may Calling the instance method of a null object.	 	 	 	 	 	 
+ It seems correct	 	 	 	 	 	 
+ no idea	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ its true	 	 	 	 	 	 
+ yes some thing wrong in the line 248	 	 	 	 	 	 
+ Get is defined here and should not be causing the NoSuchElementException. Check to make sure the code is in the correct place defined before it is being called to execute.	 	 	 	 	 	 
+ As long as the data is growing by the desired amount (multiplying by 3; then dividing by 2); this function appears to be correct.	 	 	 	 	 	 
+ The function appears to be called correctly.	 	 	 	 	 	 
+ Counter needs the value "Item" called within the method in order to work properly.	 	 	 	 	 	 
+ "Im not sure if mapScopeItem has a method of its own."	 	 	 	 	 	 
+ The fuction "layout" is being used correctly.	 	 	 	 	 	 
+ The function appears to be at the right place; but maybe line 54 and 56 should be switched.	 	 	 	 	 	 
+ The body of the function calculateNumPopulatedBytes will continually look for a Null in the byte sequence. If there is none the while loop in the function will run indefinitely.	 	 	 	 	 	 
+ The function appears to be in the correct place. 	 	 	 	 	 	 
+ The function appears in the correct position.	 	 	 	 	 	 
+ This line of code is fine	 	 	 	 	 	 
+ "Doesnt look like theres an issue with this line of code"	 	 	 	 	 	 
+ Line 78 can be producing a null pointer exception if the file.getParent() call is executed without checking to see if file is null or not.	 	 	 	 	 	 
+ "Cant see an issue in lines 80 to 83. "	 	 	 	 	 	 
+ Makes call to null.	 	 	 	 	 	 
+ Maybe you need to use else if statement instead go into a for loop; I m not sure	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "I dont see a function for GerritUtil"	 	 	 	 	 	 
+ change line 64 to } else {	 	 	 	 	 	 
+ function line 4 should look like mapScope()	 	 	 	 	 	 
+ looks to me that the message is valid in the functions; and then subsequently called correctly with the setText code.	 	 	 	 	 	 
+ get(what?)  seems to be missing a parameter.	 	 	 	 	 	 
+ put line 141 after line 143	 	 	 	 	 	 
+ it needs to specify what should "grow".  i.e.; grow(thisdata)	 	 	 	 	 	 
+ Math.max(v1.getNodeId(); v2.getNodeId)	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "I cant tell if that causes the problem"	 	 	 	 	 	 
+ should invoke different function	 	 	 	 	 	 
+ the code should say true&&true 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ There is not enough background code provided.	 	 	 	 	 	 
+ Improperly used	 	 	 	 	 	 
+ yes it does not create the actual output	 	 	 	 	 	 
+ I just have no idea regarding it	 	 	 	 	 	 
+ I think there is no such function as of my knowledge	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ Everything looks clear to me.	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ I think this would not cause an error 	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "I wouldnt have personally coded it in this fashion; but if it is the coding style of the programmer; I dont see an issue."	 	 	 	 	 	 
+ "I dont see any issues; but I could be over looking something. I would answer No; but I prefer to be exact in my answers in that if someone else were to find an issue; I would feel compelled to retract my statement."	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "Theyre exceptions that occur when you try to use a reference that points to no location in memory (null) as though it were referencing an object."	 	 	 	 	 	 
+ The file parameter is never checked to be not null. If you pass a null file this can easily cause a null pointer exception	 	 	 	 	 	 
+ long lastModified 	  Long.MIN_VALUE	 	 	 	 	 
+ sleep	 	 	 	 	 	 
+ Yes unanticipated side effects; timeout function.	 	 	 	 	 	 
+ Couldnt see the declaration of fastExistsCheck; it definitely has a possibility of being null. can fix with if(fastExistsCheck !	  null && fastExistsCheck) to short circuit the null pointer	 	 	 	 	 
+ You need to define your timeout 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ it is correct	 	 	 	 	 	 
+ it is correct declaration	 	 	 	 	 	 
+ scope 2 is initialized but no data is added so there may be an error	 	 	 	 	 	 
+ declaration is correct	 	 	 	 	 	 
+ current command should be a static variable and it should be available for use	 	 	 	 	 	 
+ i think it is correct	 	 	 	 	 	 
+ declaration seems correct	 	 	 	 	 	 
+ the return type from max function should in the range of short 	 	 	 	 	 	 
+ "There is nothing wrong with declaration of the method. Instead there may be issue in the initialization of data variable. "	 	 	 	 	 	 
+ "I dont see that this would result in a Null Pointer Exception error."	 	 	 	 	 	 
+ The invocation of the get function should not cause a NullPointerException in this instance	 	 	 	 	 	 
+ I cannot determine whether an Unsupported Method would be used in this instance	 	 	 	 	 	 
+ As long as a string is called; there should be no exception thrown	 	 	 	 	 	 
+ It is indetermined whether or not there would be a problem or this exception thrown in this instance.	 	 	 	 	 	 
+ I do not believe that the calculateVIntSize function would cause an error here.	 	 	 	 	 	 
+ The copying of the array should not cause any foreseen problems	 	 	 	 	 	 
+ I do not see the that an error would occur here	 	 	 	 	 	 
+ It should work correctly	 	 	 	 	 	 
+ Sleep interrupted the process.	 	 	 	 	 	 
+ "I dont see a return type."	 	 	 	 	 	 
+ I cannot see the initialization methods for ColumnDescriptor.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Missing information	 	 	 	 	 	 
+ attribute is null	 	 	 	 	 	 
+ no idea	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ we can use this for good operations	 	 	 	 	 	 
+ nil	 	 	 	 	 	 
+ "check if f isnt null"	 	 	 	 	 	 
+ the program is trying to list a directory that does not exist	 	 	 	 	 	 
+ makes a call to a null pointer	 	 	 	 	 	 
+ line 91 asks for a file version for version.getComments and it might not be returning a version	 	 	 	 	 	 
+ It will return the time in milliseconds for the last modified time for the FTP file.	 	 	 	 	 	 
+ "I dont see anything wrong in those lines."	 	 	 	 	 	 
+ this program attempts to use null in a case where an object is required. I confused in this code snippets.	 	 	 	 	 	 
+ I could not work out here.	 	 	 	 	 	 
+ It returns null value;may be. 	 	 	 	 	 	 
+ I think that the characters are not written in correctly. There are too many.	 	 	 	 	 	 
+ Vital numbers are missing.	 	 	 	 	 	 
+ Everything looks fine.	 	 	 	 	 	 
+ "Im not sure"	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ I am unable to provide an answer	 	 	 	 	 	 
+ I am unsure	 	 	 	 	 	 
+ I dont see how a gettimestamp here should cause an npe	 	 	 	 	 	 
+ I thought that it might have been another casting problem; but getTimestamp gives a calendar; and getTimeInMillis gives a long. If the error is around line 84; then I would say the issue probably lies in the files being passed into it.	 	 	 	 	 	 
+ "Unless its redefined somewhere else; shouldnt line 545 only return a boolean for the removal? In this case; itd start trying to check for things after 547 that wouldnt exist in the boolean; thus causing the exception."	 	 	 	 	 	 
+ "I actually think the issue in this code isnt at line 99; but at line 87. Youre trying to clear anything in the version comments before checking if its null; so you end up getting a nullPointer before you check for it."	 	 	 	 	 	 
+ "It doesnt work"	 	 	 	 	 	 
+ attributeOverrides is not declared a type or is out of scope.	 	 	 	 	 	 
+ misplaced parentheses; change code snippet	 	 	 	 	 	 
+ no function invoked	 	 	 	 	 	 
+ should be at a different place in the code	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ cant tell 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "I believe its used at the proper place in the code and should not invoke a different function."	 	 	 	 	 	 
+ should be at a different place in code	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ I believe it looks okay	 	 	 	 	 	 
+ "I dont know"	 	 	 	 	 	 
+ looks like you are calling out an improper function/location	 	 	 	 	 	 
+ wrong exit condition	 	 	 	 	 	 
+ should be at a different place in the code	 	 	 	 	 	 
+ return value is improperly used	 	 	 	 	 	 
+ "cant tell"	 	 	 	 	 	 
+ "I dont know if theres something wrong with the invocation of sleep function"	 	 	 	 	 	 
+ "I dont know."	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ "I dont see a problem with line 84 being where it is and doing what it does. I suppose there could a bug in the function getTimestamp that has a problem for remote files and times out."	 	 	 	 	 	 
+ I don\t think that "VOID" should be in the be in the class parameter of the setJavaClass; nor should a function. The whole line looks incorrect to me.	 	 	 	 	 	 
+ "The code uses the version object on line 87 but doesnt check if its null until line 88."	 	 	 	 	 	 
+ It checks for a null.	 	 	 	 	 	 
+ It null-checks every variable.	 	 	 	 	 	 
+ "I dont see why this would cause a NullPointerException."	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ I believe it would work with add comments instead of get comments.	 	 	 	 	 	 
+ "Invocation of ColumnDescriptor looks fine; but I dont have the implementation of ColumnDescriptor; so I cant be sure."	 	 	 	 	 	 
+ The code is used properly at 532.	 	 	 	 	 	 
+ 88 checks for a null file version.	 	 	 	 	 	 
+ I could not guess about this error	 	 	 	 	 	 
+ It may be calling through the null object reference	 	 	 	 	 	 
+ i believe it should read  column.setData.RowKey(label)	 	 	 	 	 	 
+ I think it should read .clear().version.getComments()	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ no idea	 	 	 	 	 	 
+ that line looks fine but if file.getAbsoluteFilePath() for some reason returns null it will fail \nso we probably should check for that somewhere.\n	 	 	 	 	 	 
+ objAttribute can be null 	 	 	 	 	 	 
+ the call looks good to me 	 	 	 	 	 	 
+ Without being able to see the getParent() method or listfiles; it is very hard to know what is causing the exception. The NullPointerException is thrown when an application attempts to use null in a case where an object is required.	 	 	 	 	 	 
+ "Missing final else clause. Within for loop; nested if statements do not include else statements. Though the break should catch these; it seems right to include the else statements."	 	 	 	 	 	 
+ "With a null - cant get a file version - handling needs to be in place for it. I am not seeing this handling in the code."	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ i can be manageable  	 	 	 	 	 	 
+ no idea	 	 	 	 	 	 
+ i think chance is there because calls and wrong time	 	 	 	 	 	 
+ Because it shows that when the user does something it will look up the master list of all related topic	 	 	 	 	 	 
+ code should read } else if (obj Attribute !	  null) {	 	 	 	 	 
+ public class Example {\n    public static void main(String[] args)\n    {\n        Object obj \n        obj.hashCode()\n    }\n}\n	 	 	 	 	 	 
+ Should be at a different place in function	 	 	 	 	 	 
+ Calls a wrong type	 	 	 	 	 	 
+ has unanticipated side effects	 	 	 	 	 	 
+ I do not sure	 	 	 	 	 	 
+ It is that	 	 	 	 	 	 
+ I sure it is that	 	 	 	 	 	 
+ incorrect initialization	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "I cant see minLength being defined."	 	 	 	 	 	 
+ It looks fine to me.	 	 	 	 	 	 
+ "There shouldnt be any problem there."	 	 	 	 	 	 
+ Not that I can see this looks okay to me.	 	 	 	 	 	 
+ It looks fine to me.	 	 	 	 	 	 
+ Looks like it should be fine.	 	 	 	 	 	 
+ Hard to tell	 	 	 	 	 	 
+ Yes	 	 	 	 	 	 
+ Think line 102	 	 	 	 	 	 
+ yes we should invoke	 	 	 	 	 	 
+ i am not sure about this	 	 	 	 	 	 
+ parameters used here to create users function	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ I would need more code	 	 	 	 	 	 
+ It looks like it should invoke a different function	 	 	 	 	 	 
+ i am not sure about the values	 	 	 	 	 	 
+ i agree with the result	 	 	 	 	 	 
+ "should say file.getAbsoluteFilePathOnly"	 	 	 	 	 	 
+ change Obj to Object	 	 	 	 	 	 
+ It will raise ???java.lang.NullPointerException??? ; so to handle this exception I should use try catch or checking of null values	 	 	 	 	 	 
+ getName method the name of the first control will be the same as the name of the attribute	 	 	 	 	 	 
+ Again I am not sure	 	 	 	 	 	 
+ "I dont know"	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ the put() actually lead to some problem with objAttribute 	 	 	 	 	 	 
+ "I cant tell because it doesnt show what getTimeInMillis does."	 	 	 	 	 	 
+ "One of the values you are trying to put probably cannot be found or dont exist."	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	  instead of .	 	 	 	 	 
+ Conditional statement is correct.	 	 	 	 	 	 
+ Return value is improperly used.	 	 	 	 	 	 
+ has unanticipated side effects	 	 	 	 	 	 
+  does not properly handle error situations	 	 	 	 	 	 
+  getJoinStack().getCurrentAlias()	 " may be null and causing the issue on line 4	 but without knowing what it is I cant say for sure."	 	 	 	 
+ setDataRowKey wrong variable or null	 	 	 	 	 	 
+ .getRoot() is returning null?	 	 	 	 	 	 
+ One of the values is been sent null; length >	  minLength && (newLastModified 	 	  lastModified && newLength 	 	  length)	 
+ The name is probably null which causes the nullpointer exception	 	 	 	 	 	 
+ It should be the same function but with a try and catch in the method its calling	 	 	 	 	 	 
+ The listFiles should be at a different places in the code. It should be lower; just below the files 	  code. 	 	 	 	 	 
+ The appendColumn is wrongly state; and defines the column and attritubutes in the wrong order.	 	 	 	 	 	 
+ I do not see anything wrong with this code specifically. I think it needs to check the version before the statement. 	 	 	 	 	 	 
+ yes	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ yes	 	 	 	 	 	 
+ values need to be defined	 	 	 	 	 	 
+ I cannot figure out what the problem in the code is	 	 	 	 	 	 
+ Missing open bracket	 	 	 	 	 	 
+ Boolean loop is called	 	 	 	 	 	 
+ Incorrect initialization	 	 	 	 	 	 
+ there is nothing wrong with the body of the conditional clause.	 	 	 	 	 	 
+ some value returning null value ie; it does not exist	 	 	 	 	 	 
+ some parameter is missed.	 	 	 	 	 	 
+ some error is there in that place	 	 	 	 	 	 
+ no error at getName	 	 	 	 	 	 
+ nothing wrong in that invocation of function 	 	 	 	 	 	 
+ "This is unlikely; it would only happen if getTimestamp could return a null.  (Because if f were null; the condition would trigger a NPE.)  On Oracles docs; it seems this function simply returns the _date property.  Without looking at all the ways this could be set or reset; it seems doubtful that null would be used here."	 	 	 	 	 	 
+ "There seem to be multiple implementations of the DbAttribute class; which attribute is an instance of.  So it is difficult to trace the relevant methods.  It is possible; but an unsupported method exception for getName is also possible.  And the invocation of equals piggybacks on this doubt.  If getName is proper and returns a non-null string; which seems likely for any half-good DbAttribute class that actually has this method (o/w wed have an unsupported method); NPE shouldnt be a problem."	 	 	 	 	 	 
+ The version variable is tested in line 88; and is apparently not used in the setStart function.  So a null version should be tested for earlier; and should not cause problems here.	 	 	 	 	 	 
+ i cant understand this program so i cant able to tell	 	 	 	 	 	 
+ there is an error in line 547	 	 	 	 	 	 
+ .add is an error here!!	 	 	 	 	 	 
+ May be	 	 	 	 	 	 
+ Looks fishy	 	 	 	 	 	 
+ ..	 	 	 	 	 	 
+ The return value is not used correctly which will cause a slew of issues	 	 	 	 	 	 
+ This appears to have parentheses in the wrong place	 	 	 	 	 	 
+ This is in the incorrect location in the code and needs to be moved	 	 	 	 	 	 
+ "There is never a check to see if the file exists. so before the function getAbsoluteFilePath is called; a check needs to be done if the file isnt Null."	 	 	 	 	 	 
+ "The code looks fine; nothing appears to cause a null pointer exception that hasnt been accounted for. If there is an error I cant see it in the body of that conditional clause"	 	 	 	 	 	 
+ If the bug is being caused by getAuthor(); then gerritComment is null. so while the getAuthor() is fine; a check needs to be done to make sure that gerritComment is not null.	 	 	 	 	 	 
+ its been a while since my dealing with script so im a bit unsure 	 	 	 	 	 	 
+ unsure 	 	 	 	 	 	 
+ It should come before line 78	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ there is nothing wrong in invocation of getTimeStamp method.ftpfile datatype has build in getTimestamp() function and it correct. since files object will have ftpfile object ; this methos doesn to cuase any problem	 	 	 	 	 	 
+ "In my opinion the body of For-Loop contains errors that prevented the content to display properly."	 	 	 	 	 	 
+ I do not believe there is an error for this specific function.	 	 	 	 	 	 
+ I do not think there is an error for this function.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ modified	 	 	 	 	 	 
+ get new column tracker	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ None of the parameters seem null.	 	 	 	 	 	 
+ If interrupted is being defined as a boolean variable and it is acquiring its value from the sleep() method; then if it is returning a true value you would want the code to read return true	  on line 102	 	 	 	 	 
+ Be sure that the values of attribute.getName() and column.getName() are the same variable type	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ good survey	 	 	 	 	 	 
+ Yes label seems to directly indicate an exception for null.	 	 	 	 	 	 
+ "Nothing stands out as incorrect; but I cant tell"	 	 	 	 	 	 
+ sorry just want the free code	 	 	 	 	 	 
+ comments is checked before the function call.	 	 	 	 	 	 
+ ColumnDescriptor columnDescriptor	 new column.SetDataRowKey(label)	 	 	 	 	 
+ you have a clear function where it would make more sense to have a .get function??? try imputing that and then moving this one down below that	 	 	 	 	 	 
+ Which class does GetParent belong to?	 	 	 	 	 	 
+ incomplete code sample	 	 	 	 	 	 
+ Not sure on this one	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ correct exceptions	 	 	 	 	 	 
+ no problems with script	 	 	 	 	 	 
+ ok  as is with current varibles 	 	 	 	 	 	 
+ "doesnt check for null file in the second piece of code that calls the original"	 	 	 	 	 	 
+ "It looks like youre handling null values appropriately."	 	 	 	 	 	 
+ "size() of a null returns an NPE. you need to make sure that when youre not getting a file version that you pass something other than a null."	 	 	 	 	 	 
+ bjkl/.jl	 	 	 	 	 	 
+ ""	 	 	 	 	 	 
+ m	 	 	 	 	 	 
+ For loop is not placed well.	 	 	 	 	 	 
+ Nothing wrong.	 	 	 	 	 	 
+ More space given.	 	 	 	 	 	 
+ Nothing is wrong here. Both the values compared; f and file have been initialized and used before this point. The comparison and structure are also valid.	 	 	 	 	 	 
+ On line 552 you use the variable column which may have been changed to null after line 545. You should probably be using the variable original instead.	 	 	 	 	 	 
+ "As long as IReviewsFactory exists in this scope this line should work fine. But I cant tell enough about it from the given information."	 	 	 	 	 	 
+ insert in line 82 and reproduce error (ftp impementations vary perhaps your line parsing code is missing) LOG.trace("List files {} f {}"; file.getAbsoluteFilePath(); f.getName())	 	 	 	 	 	 
+ Need more information specifically where is defaultAttributesByColumn defined?	 	 	 	 	 	 
+ "if the previous getLine() didnt NPE why would a second invocation?\nerror probably in IReviewsFactory.INSTANCE.createLineRange().setEnd()\nor in calling gerritComment.getLine() twice\n"	 	 	 	 	 	 
+ integers 	  new ArrayList<Integer>()	 	 	 	 	 
+ have the variable set wrong 	 	 	 	 	 	 
+ "I think it looks okay; dont see why it wouldnt work"	 	 	 	 	 	 
+ "Dont see any problem with the code"	 	 	 	 	 	 
+ "Cant find the problem"	 	 	 	 	 	 
+ Does not give sufficient enough data 	 	 	 	 	 	 
+ There lacks a space in between certain characters 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ There is no problems.	 	 	 	 	 	 
+ There is extra space provided.	 	 	 	 	 	 
+ The space provided will be not properly.	 	 	 	 	 	 
+ "I think its some other problem"	 	 	 	 	 	 
+ Some of the functions that are called by this line appear to be improperly set up	 " Id have to try it myself"	 	 	 	 	 
+ "I dont know enough about this function to answer helpfully"	 	 	 	 	 	 
+ incorect parmameter	 	 	 	 	 	 
+ ok	 	 	 	 	 	 
+ dont know	 	 	 	 	 	 
+ The desired result is unclear	 	 	 	 	 	 
+ getCurrentAlias() can return null	 	 	 	 	 	 
+ Need more details on PatchLineComment	 	 	 	 	 	 
+ I think this function will get executed 	 	 	 	 	 	 
+ "I didnt find anything wrong in it. "	 	 	 	 	 	 
+ " I think its located at wrong place. Both function should be invoked separately by constructor "	 	 	 	 	 	 
+ It seems to be the wrong Boolean operator.	 	 	 	 	 	 
+ "That doesnt seem to be causing the issue."	 	 	 	 	 	 
+ There should be checked for null also.	 	 	 	 	 	 
+ Not sure	 	 	 	 	 	 
+ I cant find an error 	 	 	 	 	 	 
+ good	 	 	 	 	 	 
+ You should check for null pointers so there will be no errors	 	 	 	 	 	 
+ "it checks for null so I dont see why NullPointerException would be thrown."	 	 	 	 	 	 
+ I am unsure.	 	 	 	 	 	 
+ This line of code appendColumn(columns; null; dba; attributes; null)	  (line 28) has an incorrect parameter order.	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ If there was a problem will nulls; there would be a dereferencing issue causing the nullpointer to happen.	 	 	 	 	 	 
+ Void.TYPE may not be returning the proper value. 	 	 	 	 	 	 
+ "I dont know."	 	 	 	 	 	 
+ I have no idea.	 	 	 	 	 	 
+ I think yes. There is probability.	 	 	 	 	 	 
+ "Maybe there shouldnt be free spaces between get and alias."	 	 	 	 	 	 
+ "Im not that far into Java lol"	 	 	 	 	 	 
+ not sure. 	 	 	 	 	 	 
+ Need exact line that caused exception.	 	 	 	 	 	 
+ the check value is not altered inside the loop; resulting in an infinite loop	 	 	 	 	 	 
+ Does not look like anything is wrong 	 	 	 	 	 	 
+ "You might be passing a uninitialized pointer as a parameter. The acquireExclusiveReadLock function should check for null pointers before trying to use any parameters."	 	 	 	 	 	 
+ increase timeout time	 	 	 	 	 	 
+ Should be place earlier in the code.	 	 	 	 	 	 
+ I think the counter increment is wrong.	 	 	 	 	 	 
+ My guess is that it is being improperly used.	 	 	 	 	 	 
+ there is a misplaced character at the beginning of the line.	 	 	 	 	 	 
+ It should be at line 85.	 	 	 	 	 	 
+ Looks fine.	 	 	 	 	 	 
+ "i dont see any problems. it should be good to go. I looked over it thoroughly. i dont think im missing anything."	 	 	 	 	 	 
+ merge is missing.	 	 	 	 	 	 
+ The value of delta could be initialized to a null pointer if the .taken() function of watch doesnt return a non-null value. Then upon accessing the value of delta a null pointer exception could be thrown.	 	 	 	 	 	 
+ "Assuming fastExistCheck is of type boolean then I dont see any problems with it. If its a method call then it is missing parentheses."	 	 	 	 	 	 
+ It could have not retrieved the node in the tree with the given type; which would lead to a null pointer exception when trying to access the counter.	 	 	 	 	 	 
+ "Within the get method; it could be attempting to iterate over a collection and the iterator cannot call next when it reaches the last element. If thats the case; calling get() would result in the exception. "	 	 	 	 	 	 
+ "I cant see the NO_MORE_ORDINALS value; but I assume the ordinal increments beyond the number of NO_MORE_ORDINALS. The while loop should use either < or > instead of !"	  to avoid it having to hit a specific value. I would also look in your ordinalIterator to ensure you cannot increment by more than one.	 	 	 	 	 
+ There may be an overflow of the data.length when the data is larger than 2GB with a signed value. If this occurs; the value will be negative and will result in the exception above.	 	 	 	 	 	 
+ "The issue is most likely on line 87. You are attempting to clear the comments on version before you check to see if version is null. That line needs to be moved after the null check."	 	 	 	 	 	 
+ "No; that line of code cant throw a NullPointerException. If anything it would be the line before it; 75."	 	 	 	 	 	 
+ getItems returns an immutable list and you are attempting to add an item to it.	 	 	 	 	 	 
+ "The problem is likely the casting on line 79; it isnt returning an object that can be cast into a Label. Because the Section class isnt defined anywhere; I cant tell what getTextClient is returning. But the issue is most likely with getTextClient; not with the method declaration of appendMessage."	 	 	 	 	 	 
+ There should be a check to see if currrentCommand.get() returns an empty list. If it returns an empty list; calling pop() on it should throw the NoSuchElementException.	 	 	 	 	 	 
+ It may be spinning indefinitely because nextOrdinal keeps returning the same value over and over instead of actually iterating; but there is no way to tell with this limited code.	 	 	 	 	 	 
+ When data.length is 2GB / 3; it is multiplied by 3 in the function which gives us a value higher than the maximum integer value for a signed int; so it overflows into a negative number. Hence the exception; because you are trying to create an array with a negative size.	 	 	 	 	 	 
+ The problem is one of the clocks getVersion is returning a negative value in line 248; however there is nothing about line 253 that could cause this. The problem is most likely the cast into a short in line 248 -- the init method for ClockEntry expects a long; which makes sense if they are a timestamp. If getVersion is returning a long it may be overflowing when casted into a short resulting in the negative number. Also; the exception on line 13 should be Long.MAX_VALUE; not Short.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ I am just a beginner in java.	 	 	 	 	 	 
+ I am just a beginner in java.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "I dont believe the timeout variable is properly declared"	 	 	 	 	 	 
+ new StopWatch() could have caused watch to contain Null value.	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ "This isnt clear to me."	 	 	 	 	 	 
+ The commands used in the lines of code are used properly and the delta>timeout function is used properly as well.	 	 	 	 	 	 
+ it has the wrong parenthesis.	 	 	 	 	 	 
+ "I cant identify the problem."	 	 	 	 	 	 
+ If data.length * 3 is larger than the maximum value for an integer; it will turn negative.	 	 	 	 	 	 
+ calls a wrong type	 	 	 	 	 	 
+ Code looks fine	 	 	 	 	 	 
+ Code looks fine	 	 	 	 	 	 
+ The code looks fine.	 	 	 	 	 	 
+ code looks fine	 	 	 	 	 	 
+ wrong values	 	 	 	 	 	 
+ I do not have as much knowledge on coding to be able to make an accurate choice.	 	 	 	 	 	 
+ It is hard for me to pinpoint. 	 	 	 	 	 	 
+ not defined for variables	 	 	 	 	 	 
+ it will work	 	 	 	 	 	 
+ exception occur because of scope reference issue	 	 	 	 	 	 
+ variable not declared properly	 	 	 	 	 	 
+ conditions should be checked properly	 	 	 	 	 	 
+ it is working fine	 	 	 	 	 	 
+ data is not declared.	 	 	 	 	 	 
+ include proper references and syntax for node elements	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ caculateintsize	 	 	 	 	 	 
+ i hope it should be public	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ yes to change as text length.	 	 	 	 	 	 
+ cannot guess these script	 	 	 	 	 	 
+ cannot identify	 	 	 	 	 	 
+ it can be used well	 	 	 	 	 	 
+ it works properly	 	 	 	 	 	 
+ this steps works properly	 	 	 	 	 	 
+ user option is easy	 	 	 	 	 	 
+ it is wright option	 	 	 	 	 	 
+ "I would like to see the full class file for this bug. If the problem is the 2GB then Im assuming that the variable is set to integer (int). Integers are size limited to about 2.147 million and 2GB as bytes is close to that number. In the code I see"	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ "I think its correct"	 	 	 	 	 	 
+ nothing	 	 	 	 	 	 
+ It could be anything	 	 	 	 	 	 
+ "I could see a potential problem if data.length were 0; but that doesnt seem to apply to the given error."	 	 	 	 	 	 
+ it is the expected result	 	 	 	 	 	 
+ according to my knowledge it is not right	 	 	 	 	 	 
+ probably yes	 	 	 	 	 	 
+ probably not	 	 	 	 	 	 
+ i feel that way	 	 	 	 	 	 
+ Unable to get the code for what is meant	 	 	 	 	 	 
+ No data is showing.	 	 	 	 	 	 
+ Popping an empty stack results in this exception	  not certain why it would be empty	 though.	 	 	 	 
+ "Im not certain what the error message means"	  loop seems fairly standard.	 	 	 	 	 
+ "The length property of data returns an int.  For arrays that are very large; multiplying by 3 might return a value that is greater than the maximum integer that int can encode; and therefore might return an incorrectly negative value.  (Dividing by 2 obviously wont negate this.)"	 	 	 	 	 	 
+ This casts to short; but if the version is too large; one can get a negative int with this cast; like -532.	 	 	 	 	 	 
+ "I view the coding as accurate and no changes used; there doesnt seem to be any handle of errors"	 	 	 	 	 	 
+ "I believe the function doesnt look wrong and looks accurate "	 	 	 	 	 	 
+ nil	 	 	 	 	 	 
+ nil	 	 	 	 	 	 
+ "You are either getting overflow wrap around of an array or not always providing an int as the second parameter to copyOf; its hard to tell in this context."	 	 	 	 	 	 
+ it must be in the implicit conversion using short that you get the negative number	 	 	 	 	 	 
+ Yes the return statement is wrongly placed.	 	 	 	 	 	 
+ nil	 	 	 	 	 	 
+ " i dont understand the code"	 	 	 	 	 	 
+ "I cant see any bug"	 	 	 	 	 	 
+ "I dont understand the code"	 	 	 	 	 	 
+ line 138 is needed to supply a value to line 140	 	 	 	 	 	 
+ The array size is out of bounds	 	 	 	 	 	 
+ "I dont understand the code"	 	 	 	 	 	 
+ should check that mapScopeItem(item) is not null before adding it to scope2.	 	 	 	 	 	 
+ "I cant find anything about the layout method online. Escpecialy pertaining to the Label class.  Thats probably this issue if you are trying to cast a label as whatever object the layout class is outputing"	 	 	 	 	 	 
+ Since the copyOf method should be in the form "copyOf(boolean[] original;int newLength)" according to the java api; it seems like you have the correct format of code.  The api says the negative array size exception is thrown when the newLength variable is negative.  It could be possible that you are overloading the capacity of an int in java.  I wonder if it\s possible to use a long instead...	 	 	 	 	 	 
+ "I dont know."	 	 	 	 	 	 
+ I do not know.	 	 	 	 	 	 
+ THE COMMAND SEEMS TO BE INCOMPLETE	 	 	 	 	 	 
+ THERE IS NO TEXT ENTERED IN THE QUOTATION MARKS OF LINE 81; WHICH WOULD HAVE A ERROR FOR LINE 82	 	 	 	 	 	 
+ THE COMMAND IS NOT IN PARENTHESSES	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Here wrong comparison	  	 	 	 	 	 
+ I found nothing here. I would execute	 	 	 	 	 	 
+ normally the conversion is valid only in cases where a class extends a parent class and the child class is casted to its parent class.	 	 	 	 	 	 
+ if there are no more elements in an enumeration or array; this would generate error. Here I could not find anything here.	 	 	 	 	 	 
+ funcion numBitsUsed() is missing.	 	 	 	 	 	 
+ the string in Java cannot be longer than 2GB. (bufferserilizing overhead in base64)	 	 	 	 	 	 
+ I could not explain precisely here.	 	 	 	 	 	 
+ public static List<ReviewDslScopeItem> getItems() 	 	 	 	 	 	 
+ No error seen	 	 	 	 	 	 
+ "dont know this"	 	 	 	 	 	 
+ THIS MAY OCCUR DUE TO EXTENSIVE LOAD TIME WAITING.	 	 	 	 	 	 
+ A MISALIGNMENT OF PATTERNS	 	 	 	 	 	 
+ SHOWS SIGNS OF A POSSIBLE VIRUS	 	 	 	 	 	 
+ RESETTING	 	 	 	 	 	 
+ private void expand { data 	  Arrays. copyOf (data	 data. length	 	 	 	 
+ There seems to be some missing information.	 	 	 	 	 	 
+ I think all the parameters are correct; and everything else too.	 	 	 	 	 	 
+ Everything looks fine and written correctly.	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ "I dont think this is a legit command."	 	 	 	 	 	 
+ There are vital numbers missing.	 	 	 	 	 	 
+ "I cant tell."	 	 	 	 	 	 
+ I think there is probably a problem with missing type.	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ Everything looks okay.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ the initialization should be different	 	 	 	 	 	 
+ yes; there should be a space between client and label	 	 	 	 	 	 
+ no; it seems to be correct	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "there isnt enough information for me to make a conclusive assumption."	 	 	 	 	 	 
+ "I cant be sure. It looks ok; but I cant really tell"	 	 	 	 	 	 
+ "seems to me I dont have all the declarations. I am not willing to assume there was any traceable logic to the variable name assignments as this code sample seems to demand. so; no I wont spend another 10 minutes looking for the parameter list of .layout() whatever that may be. and. java is not my first language; so this may be painfully obvious to someone with a bit more experience. your requirements said nothing about experience. maybe you should fix that.and. java is not my first language; so this may be painfully obvious to someone with a bit more experience. your requirements said nothing about experience. maybe you should fix that."	 	 	 	 	 	 
+ instead of data.length should be passed as a parameter so additional check can be made for existing size which may in fact be zero on some calls.	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ "Yes because if you invoked grow it would create a data file larger than 2gb which would lead to an overrun in the compiler"	 	 	 	 	 	 
+ Not skilled enough to tell	 	 	 	 	 	 
+ Just a guess	 	 	 	 	 	 
+ looks like 122 has to have a string there for errors	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Perhaps ByteArray buffer is not large enough to hold all the data; Integer.MAX limit may have beeen reached. Maybe try to use something like BigDataOutput instead.	 	 	 	 	 	 
+ The specification depends on wha the web IDL and HTML5 specifications are	 	 	 	 	 	 
+ Not using the right classes for the Output	 	 	 	 	 	 
+ standard output is empty	 	 	 	 	 	 
+ doesn???t evaluate to an ordinal value	 	 	 	 	 	 
+ Im unsure of the answer	 	 	 	 	 	 
+ class; interface; or enum expected	 	 	 	 	 	 
+ "I really cant tell here.  Line 79 might have a problem but I cant put my finger on it."	 	 	 	 	 	 
+ I do not see any problems with the copyOF function.  All the parameters appear to be fine.  The order seems to be fine.	 	 	 	 	 	 
+ have no idea what this means	 	 	 	 	 	 
+ "I dont think that conditional statement has anything to do with a type cast error"	 	 	 	 	 	 
+ have no idea what this means	 	 	 	 	 	 
+ have no idea what this means	 	 	 	 	 	 
+ have no idea what this means	 	 	 	 	 	 
+ "there doesnt seem to be anything in grow that could give a negative array. it looks like it takes an array length; multiplies by 3 and divides by 2. It shouldnt give a negative array size."	 	 	 	 	 	 
+ "The logic there is sound. If its the first element; any others after it cannot be."	 	 	 	 	 	 
+ "UnsupportedMethodException normally means that the method isnt actually written yet.One of the other functions is more likely to be throwing the issue; within mapScopeItem."	 	 	 	 	 	 
+ "It looks to me like the issue is in trying to cast something the wrong way on line 79. I dont have the getTextClient method; but Id think it has to do with that method returning something that cant be dealt with by casting to a label."	 	 	 	 	 	 
+ Either the code is hitting this point after all other threads have finished and is trying to pop a nonexistent command; or it cannot refer to a thread in this way.	 	 	 	 	 	 
+ It looks like a regular iterator to me. 	 	 	 	 	 	 
+ "If youre getting a negativeArraySizeException while only adding; chances are youre overflowing the integer. From http://docs.oracle.com/javase/specs/jls/se7/html/jls-15.html#jls-15.18.2 \nIf an integer addition overflows; then the result is the low-order bits of the mathematical sum as represented in some sufficiently large twos-complement format. If overflow occurs; then the sign of the result is not the same as the sign of the mathematical sum of the two operand values. "	 	 	 	 	 	 
+ "Get just returns the first thing in the array. If it has anything to do with get; its not the invocation; but whatever data its retrieving."	 	 	 	 	 	 
+ "The code doesnt do anything to handle error situations."	 	 	 	 	 	 
+ no idea	 	 	 	 	 	 
+ NA	 	 	 	 	 	 
+ No error in line 235	 	 	 	 	 	 
+ no value	 	 	 	 	 	 
+ code is not supported	 	 	 	 	 	 
+ it should invoke a different function	 	 	 	 	 	 
+ return statement is at the wrong place	 	 	 	 	 	 
+ looks good	 	 	 	 	 	 
+ missing data	 	 	 	 	 	 
+ return value is improperly used	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ it should invoke a different function	 	 	 	 	 	 
+ Wrong variables 	 	 	 	 	 	 
+ It should be in a different place 	 	 	 	 	 	 
+ I cant tell this one	 	 	 	 	 	 
+ Its probably a different function 	 	 	 	 	 	 
+ It should be in a different place 	 	 	 	 	 	 
+ it might be in the wrong place.	 	 	 	 	 	 
+ nothing wrong with this code.	 	 	 	 	 	 
+ "I dont think that there is anything wrong with code."	 	 	 	 	 	 
+ but No Public Class	 	 	 	 	 	 
+ this will work	 	 	 	 	 	 
+ "I cant see the rest of the code; but I dont see on lines 120-122 where the void grow is actually being written to influence the other variables. "	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Needs parameter to specify the length to increase the array size	 	 	 	 	 	 
+ I think that the function produces the correct return value.	 	 	 	 	 	 
+ no there not 	 	 	 	 	 	 
+ There no problems 	 	 	 	 	 	 
+ there possibility that is not supposed to 	 	 	 	 	 	 
+ I cant tell where there is or not	 	 	 	 	 	 
+ Need to check variables for a max size	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 1. Before line 79; we should check if section isinstanceof Label	 	 	 	 	 	 
+ Nothing indicates that the variables that arrays are dependent on are negative such as the "pointer" and "lenght".	 	 	 	 	 	 
+ The value of data.length is an integer. If so once you reach a certain value by calling the grow function in the while loop of the write function or if the data.length is at too high a value in the writeByte function; the sign on the integer flips and higher order bits are discarded.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ requires parameter that is not listed	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ unanticipated side effects	 	 	 	 	 	 
+ does not properly handle error situation	 	 	 	 	 	 
+ wrong order	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Not sure	 	 	 	 	 	 
+ not enough code available to determine the error	 	 	 	 	 	 
+ I would need to see the full string	 	 	 	 	 	 
+ "Ive got to see more of the code to be sure"	 	 	 	 	 	 
+ "Sorry I cant tell"	 	 	 	 	 	 
+ wrong parameters used	 	 	 	 	 	 
+ "I dont see an issue here"	 	 	 	 	 	 
+ "If any of the values on that line are null; that could be it; but without knowing what values are there; I cant tell."	 	 	 	 	 	 
+ does not properly handle error situations	 	 	 	 	 	 
+ "Since the while condition is ordinal !"	 " NO_MORE_ORDINALS	 the problem is that somehow the integer ordinal is somehow skipping over NO_MORE_ORDINALS or never reaching it entirely"	 	 	 	 
+ "I cant tell."	 	 	 	 	 	 
+ wrong exit condition	 	 	 	 	 	 
+ return statement is at the wrong place	 	 	 	 	 	 
+ should invoke a different function	 	 	 	 	 	 
+ needs different parameters to produce the correct result	 	 	 	 	 	 
+ should invoke a different function	 	 	 	 	 	 
+ needs different parameters to produce the correct result	 	 	 	 	 	 
+ return value is improperly used	 	 	 	 	 	 
+ no problems	 	 	 	 	 	 
+ I do not see any incorrect values	 	 	 	 	 	 
+ I am not sure what is the problem with this code	 	 	 	 	 	 
+ I am clueless about any problem that may be with this code.	 	 	 	 	 	 
+ I have no idea	 	 	 	 	 	 
+ "I dont know if theres something wrong with the body of the conditional clause."	 	 	 	 	 	 
+ "I cant say whats wrong with this one."	 	 	 	 	 	 
+ "I cant tell."	 	 	 	 	 	 
+ "I dont know if there is something wrong with the declaration."	 	 	 	 	 	 
+ "May be I dont know whats wrong with this code."	 	 	 	 	 	 
+ "It didt get items"	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ The error does not appear to come from this line.	 	 	 	 	 	 
+ Depending on the output of section.getTextClient(); it is possible that it could output a value that cannot be cast to a Label.	 	 	 	 	 	 
+ theres not enough information to give a sufficiant answer	 	 	 	 	 	 
+ the size of the file is sufficiant enough to be downloaded quickly	 	 	 	 	 	 
+ should use try	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ I cant tell ; unless I saw the function	 	 	 	 	 	 
+ it should be inside try	 	 	 	 	 	 
+ if no bits ->0	 	 	 	 	 	 
+ since the 2GB is more than the integer can hold	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ f	 	 	 	 	 	 
+ "I dont know the gerrit functions well enough to answer for sure on line 108. To me; the problem looks like the error checking at line 88-90 doesnt work properly/is insufficient to halt execution when it cannot successfully get the comment. Instead it allows the function to continue down and throw an exception later."	 	 	 	 	 	 
+ "It looks like a proper custom constructor call to me. Im not sure about the placement of the constructor call inside the call to put. I think its ok; but not definite."	 	 	 	 	 	 
+ "I dont see any problem with the loop setup on line 234."	 	 	 	 	 	 
+ "In general a ClassCastException means you are trying to cast an object to a subclass that it isnt an instance of. In this code it looks like the problem lies with (Label) not being a subclass of section."	 	 	 	 	 	 
+ If the executionSemaphore is releasing thread handle in the element that Hystrix is using to identify and end the current command; that could cause the problem.	 	 	 	 	 	 
+ "Im not seeing the problem."	 	 	 	 	 	 
+ "One possible source of error would be that the 2GB file size limit stems from the maximum size for a 32-bit signed integer. If the data.length variable type is an integer more than a third of the maximum value and you multiply it by 3; then you will cause a problem with wrapping around to a negative. It would be better to divide by 2; then multiply by 3; but that still doesnt prevent a possible integer overflow from occurring. The solution is to check the size before the operation; or change the variable type."	 	 	 	 	 	 
+ "I dont see a problem with the invocation of getNodeId itself. The problem is in the second passed parameter which is a short being passed into a long and being checked against the max size of a short."	 	 	 	 	 	 
+ "There isnt enough code shown; I cant see where currentCommand is populated."	 	 	 	 	 	 
+ I think this could only happy if the data array is not initialized.	 	 	 	 	 	 
+ It null-checks every variable.	 	 	 	 	 	 
+ No null-checking.	 	 	 	 	 	 
+ Everything checks but it depends on the item class.	 	 	 	 	 	 
+ It adds the text correctly.	 	 	 	 	 	 
+ I doubt you can use two functions in the same line (before a semicolon).	 	 	 	 	 	 
+ NO_MORE_ORDINALS checks the ordinal variable.	 	 	 	 	 	 
+ The CopyOf function could grow to a size too large for the IDE to handle.	 	 	 	 	 	 
+ ClockEntry checks NodeID for > 0	 	 	 	 	 	 
+ "I dont have enough information."	 	 	 	 	 	 
+ Not sure where this is coming from.	 	 	 	 	 	 
+ You may need to set the size like: (data.length * 3) * .5?	 	 	 	 	 	 
+ "Cant tell."	 	 	 	 	 	 
+ looks fine	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ No issue	 	 	 	 	 	 
+ N/A	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Dunno	 	 	 	 	 	 
+ Data is correct number	 	 	 	 	 	 
+ looks normal to me.	 	 	 	 	 	 
+ It is wrong; because it is the wrong information.	 	 	 	 	 	 
+ "There must be an exception within those lines; but where it lies isnt clear. Possibly in line 234 or 235."	 	 	 	 	 	 
+ That looks fine.	 	 	 	 	 	 
+ "Im not seeing anything that would cause it to return a negative value"	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Always validate data before while looping over it. Or the memory might have been corrupted; thus the end value would not be NO_MORE_ORDINAL. It would be better to just stop when the iterator does not find another item.	 	 	 	 	 	 
+ It could be that there is an integer overflow; causing the value to become negative. Thus copying the array with a negative number would throw the exception.	 	 	 	 	 	 
+ Line 115 may be a problem depending on what the clear command on line 87 does. If it "nulls" out the comments; then line 115 could raise a null pointer exception. However; line 87 should be moved after line 90. This may be causing the Null Pointer exception.	 	 	 	 	 	 
+ "I dont see anything wrong with line 77 - its just appending a space to a string."	 	 	 	 	 	 
+ "Dont see any way for the getItems function call to produce an UnsupportedMethodException."	 	 	 	 	 	 
+ "A ClassCastException is thrown to indicate that the code has attempted to cast an object to a subclass of which it is not an instance. I dont have enough information to know what the Section class is; but I suspect that the section.getTextClient() call cant be case to a Label."	 	 	 	 	 	 
+ I believe NoSuchElementException could be raised if there are no more commands in the command queue.	 	 	 	 	 	 
+ "Theres not enough information to tell where the error above is coming from. The declaration of calculateNumPopulatedBytes appears to be fine."	 	 	 	 	 	 
+ Arrays.copyOf raises a NegativeArraySizeException with the second parameter passed in is negative. 2GB/3 is too big of a number to be represented as a positive integer index in a Java Array.  I did the following simple check to test this:      int [] myIntArray  new int[2*1073741824/3] This test also received a java.lang.NegativeArraySizeException	 	 	 	 	 	 
+ The invocation of the clone function on line 253 is very straight forward. It does not appear to have anything to do with the ClockEntry constructor call on line 248 which is causing the exception.	 	 	 	 	 	 
+ The line seems unrelated to the error.	 	 	 	 	 	 
+ getItems() is probably the culprit.	 	 	 	 	 	 
+ The specific line in question does not appear to be relevant to the error.	 	 	 	 	 	 
+ "The code doesnt check whether a next element exists before getting it."	 	 	 	 	 	 
+ Not enough code shown.	 	 	 	 	 	 
+ data.length might need to be recast	 	 	 	 	 	 
+ The problem may stem from 248.	 	 	 	 	 	 
+ I Can not tell about this issue	 	 	 	 	 	 
+ Yes; the requested operation may not be supported	 	 	 	 	 	 
+ I cant tell exactly	 	 	 	 	 	 
+ I cant tell exactly what it is	 	 	 	 	 	 
+ I can not tell	 	 	 	 	 	 
+ Yes we can try the different parameters to produce the correct result	 	 	 	 	 	 
+ yes; It may be  at a different place in the program	 	 	 	 	 	 
+ it looks correct	 	 	 	 	 	 
+ I believe it should read scope2.getItems().add(mapScope(item))	 	 	 	 	 	 
+ At line 81 you have ("  " + message) i think it should read ("" + message)	 	 	 	 	 	 
+ It looks correct	 	 	 	 	 	 
+ looks correct but could be missing a space on while(ordinal !	  NO_MORE_ORDINALS)	 	 	 	 	 
+ this.data   Arrays.copyOf(data; (data.length * 3) / 2)     I think it should read :this.data   Arrays.copyOf(data; (data.length * 2) / 2)   \n	 	 	 	 	 	 
+ Looks correct	 	 	 	 	 	 
+ may not be	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ seems like it is wrong	 	 	 	 	 	 
+ no idea	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ the for loop is iterating over the list which is what it is supposed to do 	 	 	 	 	 	 
+ the for loop is doing what it is supposed to do 	 	 	 	 	 	 
+ "the layout function is correct. its asking the parent to layout all its children\n"	 	 	 	 	 	 
+ I can not see where currentCommand.get() is returning something on a stack	 	 	 	 	 	 
+ the function call looks good to me	 	 	 	 	 	 
+ the  computation in grow  (data.length * 3) / 2 \nis a 32 bit computation and is overflowing. \nyou could possibly make the limit larger by doing the math in the other direction \n (data.length / 2) *3. \n	 	 	 	 	 	 
+ I would need more detail on adminClient.metadataMgmtOps.getRemoteMetadata and what does it have for Versions. 	 	 	 	 	 	 
+ "This doesnt seem to be the problem. It looks to be setup correctly."	 	 	 	 	 	 
+ This seems to be declared correctly.	 	 	 	 	 	 
+ In the declaration; it seems like "Section section" should read "String section" instead. By definition; the error is thrown to indicate that the code has attempted to cast an object to a subclass of which it is not an instance.	 	 	 	 	 	 
+ "It looks like endCurrentThreadExecutingCommand at line 87 is being used only once per thread. By definition; NoSuchElementException is thrown by the nextElement method of an Enumeration to indicate that there are no more elements in the enumeration. I dont expect this to be the cause of that bug."	 	 	 	 	 	 
+ This should be fine. The NO_MORE_ORDINALS within the while statement should be keeping it from spinning indefinitely. 	 	 	 	 	 	 
+ "Requires declaration that is not listed. In order to support very large files; a long declaration for data is needed. Because line 120-122 uses Javas default variable size; it does not support extremely data values."	 	 	 	 	 	 
+ "It doesnt look to be part of line 264. This should be much better than the v1 result - switching from this to clock. "	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ yes it can be manageable 	 	 	 	 	 	 
+ yes	 	 	 	 	 	 
+ there is no chance 	 	 	 	 	 	 
+ no there is no chance 	 	 	 	 	 	 
+ no idea	 	 	 	 	 	 
+ yes there is chance 	 	 	 	 	 	 
+ there is no chance 	 	 	 	 	 	 
+ not sure about this one either	 	 	 	 	 	 
+ I am not sure about this one	 	 	 	 	 	 
+ Could u replace Integer and String classes with IntWritable;Text ? 	 	 	 	 	 	 
+ I cannot tell in this one	 	 	 	 	 	 
+ seems to be correct	 	 	 	 	 	 
+ Your missing the following in line 22  this.data ;\n Arrays.copyOf(data; (int)(((long)data.length * 3) / 2))	 	 	 	 	 	 
+ I would think you would need to remove clone and use mod	 	 	 	 	 	 
+ misplaced parenthesis	 	 	 	 	 	 
+ REturn value is improperly used	 	 	 	 	 	 
+ Not quite sure	 	 	 	 	 	 
+ Return value is improperly used	 	 	 	 	 	 
+ Does not compute the expected result	 	 	 	 	 	 
+ Should bring about a different function	 	 	 	 	 	 
+ Should be at a different place in the code	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ I do not see a value of zero length	 	 	 	 	 	 
+ "One cant get this exception with bad arguments to a method or a nonexistent method; and thats all that could happen with the invocation.  Line 79 looks like a much better candidate (given the explicit cast)."	 	 	 	 	 	 
+ "The length property is an int (and copyOf takes an int); so when you multiply a large value of this; you can have a number greater than the maximum int (of about 2 billion).  So you can feed a negative number into copyOf from this overflow.  (And dividing by 2 obviously doesnt solve the problem)."	 	 	 	 	 	 
+ "I dont know"	 	 	 	 	 	 
+ I do not know	 	 	 	 	 	 
+ I sure it is that	 	 	 	 	 	 
+ I do not sure	 	 	 	 	 	 
+ It is not	 	 	 	 	 	 
+ I think it is that	 	 	 	 	 	 
+ I do not sure	 	 	 	 	 	 
+ n/a	 	 	 	 	 	 
+ i do  not see anything wrong	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ return value	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Its missing the " symbol possibly	 	 	 	 	 	 
+ yeryrty	 	 	 	 	 	 
+ There shouldn\t be any problem for a "; " to be appended to a StringBuilder.	 	 	 	 	 	 
+ May be getItems() is read only?	 	 	 	 	 	 
+ "Problem seems to lie elsewhere; cant see anything wrong."	 	 	 	 	 	 
+ The error probably indicates that there are no more elements returned by get().	 	 	 	 	 	 
+ "I dont have idea what ordinalIterator does."	 	 	 	 	 	 
+ "May be its an issue with int being used for large data. Changing int to long may work."	 	 	 	 	 	 
+ "Its because negative version (-532) is being passed to the ClockEntry constructor."	 	 	 	 	 	 
+ I just cant say for sure; but it looks okay.	 	 	 	 	 	 
+ The code below looks fine to me and should be working properly. 	 	 	 	 	 	 
+ "The line looks fine to me and is under 79 characters; which should be okay and I dont see any errors here."	 	 	 	 	 	 
+ there could be a problem here if the return type is not written properly; I would double check it; but I am not sure that there is a problem here.	 	 	 	 	 	 
+ "I dont know"	 	 	 	 	 	 
+ The string in Java cannot be longer than 2G.	 	 	 	 	 	 
+ You may need to use a wrapper in this code so that it works correct; I can not be sure; but it looks that way to me.	 	 	 	 	 	 
+ Yes	 	 	 	 	 	 
+ Yes	 	 	 	 	 	 
+ Yes	 	 	 	 	 	 
+ none	 	 	 	 	 	 
+ I think so	 	 	 	 	 	 
+ Yes	 	 	 	 	 	 
+ yes	 	 	 	 	 	 
+ i am not sure about this	 	 	 	 	 	 
+ i am not sure	 	 	 	 	 	 
+ i am not sure	 	 	 	 	 	 
+ no differenrt parameter produced	 	 	 	 	 	 
+ i am not sure	 	 	 	 	 	 
+ nothing wrong in the parameter	 	 	 	 	 	 
+ i am not sure about it	 	 	 	 	 	 
+ it is still a problem in big data managing programs. and lot of errors found in the internet technical issues section. 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "Id need to see more code to be sure. But getParent may be returning an object without a layout method."	 	 	 	 	 	 
+ The maximum value for an int is 2;147;483;647 (the data type of data.length).  An intermediate value in the calculation on line 122 exceeds this value; leading to a negative result.	 	 	 	 	 	 
+ grow should be in between the ()	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Hard to tell	 	 	 	 	 	 
+ "It doesnt exit at the expected iteration"	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ "you have what looks like a parenthesis inside of another parenthesis; which doesnt make sense. "	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ You have an ending parenthesis; where there is no beginning.	 	 	 	 	 	 
+ "You havent specified a size from what I can see."	 	 	 	 	 	 
+ i am not sure about the result	 	 	 	 	 	 
+ i am not sure about the result	 	 	 	 	 	 
+ i agree with the result	 	 	 	 	 	 
+ i agree with the result	 	 	 	 	 	 
+ i think the value is improperly used	 	 	 	 	 	 
+ the result was unexpected	 	 	 	 	 	 
+ i am not sure about the result	 	 	 	 	 	 
+  i am not sure about the result	 	 	 	 	 	 
+ I cannot find any logical errors	 	 	 	 	 	 
+ "create user needs to go before getGerritProvider"	 	 	 	 	 	 
+ "remove exclamation point that represents does not contain or negative"	 	 	 	 	 	 
+ remove the number 2	 	 	 	 	 	 
+ only needs one true	 	 	 	 	 	 
+ remove paretheses	 	 	 	 	 	 
+ it looks good to me	 	 	 	 	 	 
+ data length plus 3 should be copied into this.data	 	 	 	 	 	 
+ remove space after (short)	 	 	 	 	 	 
+  constructor invocation pattern involves putting the new operator just before the function is invoked	 	 	 	 	 	 
+ GetMethod() will not return private methods. 	 	 	 	 	 	 
+ public class UnsupportedMethodException Thrown when the tooling API client attempts to use a method that does not exist	 	 	 	 	 	 
+ Constructs a new ClassCastException with the current stack trace and the specified detail message and extends RuntimeException. Signals that an invalid cast has occurred.	 	 	 	 	 	 
+ Public class NoSuchElementException extends RuntimeException Thrown by the nextElement method of an Enumeration to indicate that there are no more elements in the enumeration.	 	 	 	 	 	 
+ int numBytes 	  calculateVIntSize(value)	 	 	 	 	 
+ "A functions parameter list defines the variables that will be used to hold the arguments passed to the function when its called."	 	 	 	 	 	 
+ putting the main_action from the modules sensitive to clock entry and inside the while statement a simple wait() 	 	 	 	 	 	 
+ The use of parenthesis looks suspicious. 	 	 	 	 	 	 
+ If containsKey returns anything other than a logical value or a 1 or a 0 this could be problem.	 	 	 	 	 	 
+ Add what to this item?	 	 	 	 	 	 
+ Looks fine	 	 	 	 	 	 
+ The .get is a function I think and it is trying to call another function and not a value.	 	 	 	 	 	 
+ This looks ok also	 	 	 	 	 	 
+ "Im just not sure"	 	 	 	 	 	 
+ This looks fine to me	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ if the call to getType(1) in line 61 returns a NullPointer; then yes	 	 	 	 	 	 
+ getItems() returns a Collections.unmodifiableList so you cannot call the add method	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ should check to make sure currentCommand value was set as exceptions could occur before Hystrix.startCurrentThreadExecutingCommand(getCommandKey())	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ it depends on how getMessage() is implemented.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ I need the definition of textClientLabel to make judgement	 	 	 	 	 	 
+ The currentCommand.get() does not return a stack	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ parameter of copyOf is not right	 	 	 	 	 	 
+ the (short) may lead to problem	 	 	 	 	 	 
+ "I cant tell because I cant tell what the code is doing. "	 	 	 	 	 	 
+ "You cant call new Counter(item) without storing it within a variable first. "	 	 	 	 	 	 
+ the issue is probably trying to add from the mapScopeItem(item) function. It may not follow the same vriable type. 	 	 	 	 	 	 
+ All the parameters are used and everything looks fine.	 	 	 	 	 	 
+ There is probably no element found from the pop. The function might not even be applicable to the pop function.	 	 	 	 	 	 
+ The problem is that the while look keeps going on because you keep adding cradinals and the condition of NO_MORE_ORDINALS never occurs.	 	 	 	 	 	 
+ No; it is being declared properly.	 	 	 	 	 	 
+ "I cant tell but it seems like the issue may lie in the kiteration or numbers."	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ getItems))	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ You need a better extension after the .get	 	 	 	 	 	 
+ THe dialogue is confusing and warning out of sequence.	 	 	 	 	 	 
+ The Parenthesis are not closed	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ It looks right	 	 	 	 	 	 
+ No error at mentioned line.	 	 	 	 	 	 
+ No conditional clause.	 	 	 	 	 	 
+ I am not sure about this line.	 	 	 	 	 	 
+ The provided class name is invalid.	 	 	 	 	 	 
+ Return value used improperly.	 	 	 	 	 	 
+ Need to set the code in different place.	 	 	 	 	 	 
+ The provided class name is invalid.	 	 	 	 	 	 
+ Wrong Boolean operator.	 	 	 	 	 	 
+ "i cant tell"	 	 	 	 	 	 
+ does not compute the expected result	 	 	 	 	 	 
+ should be at a different place in the code	 	 	 	 	 	 
+ makes a call to a null pointer	 	 	 	 	 	 
+ requires a parameter that is not listed	 	 	 	 	 	 
+ specifies the wrong or no return type	 	 	 	 	 	 
+ requires a parameter that is not listed	 	 	 	 	 	 
+ should be at a different place in the code	 	 	 	 	 	 
+ "It doesnt show me what the add method does so I cant tell."	 	 	 	 	 	 
+ "It doesnt look like it since its just a simple append; but I dont know what count is.  Since its not listed it could be null; and append might not take a null value since SB is a stringBuilder"	 	 	 	 	 	 
+ "The way its set up in the for loop is wrong.  You should be iterating through a value; not a function call."	 	 	 	 	 	 
+ getTextClient() may not be returning a value that is able to e case as a label in line 79.	 	 	 	 	 	 
+ There is no pop functions that are listed that it can use.	 	 	 	 	 	 
+ "Im not sure what its trying to do; but the way that its coded would continuously loop if ordinals iterator is not set up correctly; or the NO_MORE_ORDINALS value is wrong.  "	 	 	 	 	 	 
+ data.length should read data.length() - otherwise it will copy the original data; and increase the capacity to 3/2 the length of the data array.	 	 	 	 	 	 
+ "This is really sloppy and hard to read; but Im guessing that there is an issue with the multiple adds and merging.  I suggest branching it off into being more easily readable so it can be stepped through easier."	 	 	 	 	 	 
+ no its wrong format	 	 	 	 	 	 
+ yes i need to declare correctly	 	 	 	 	 	 
+ none	 	 	 	 	 	 
+ its confusing	 	 	 	 	 	 
+ convertScopeToDescription() not a string or null.	 	 	 	 	 	 
+ mapscope does not exist in your API. 	 	 	 	 	 	 
+ Casted an object to a subclass of which it is not an instance.	 	 	 	 	 	 
+ The element being requested does not exist.	 	 	 	 	 	 
+ "Error text isnt helpful enough. "	 	 	 	 	 	 
+ Attempt is made to create an array with a negative size.	 	 	 	 	 	 
+ Input parameter cannot be null.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Should try a try and catch to throw out null values	 	 	 	 	 	 
+ the method has not been implemented	 	 	 	 	 	 
+ Thrown to indicate that the code has attempted to cast an object to a subclass of which it is not an instance. So; for example; when one tries to cast an Integer to a String; String is not an subclass of Integer; so a ClassCastException will be thrown.\n	 	 	 	 	 	 
+ Everything seems to be in order; my suggestion would be to debug in execution.	 	 	 	 	 	 
+ in the while condition; it should be more explicit	 	 	 	 	 	 
+ It seems all tha parameters are in order.	 	 	 	 	 	 
+ when calling the method and the function with in.	 	 	 	 	 	 
+ I cant tell	 	 	 	 	 	 
+ There is no information being sent to the function; you should be sending and also returning some data.	 	 	 	 	 	 
+ Should be specified as counter item before getting counts; the loop does not work as intended. 	 	 	 	 	 	 
+ The mapScopeItem function conflicts with the getItems as referenced in the bottom code.	 	 	 	 	 	 
+ Instead of .layout function; you should call .appendMessage on line 82 to avoid using wrong parameter.	 	 	 	 	 	 
+ The pop function throws that NoSuchElementException because it is written and not referenced in the code. 	 	 	 	 	 	 
+ That function is references; but requires a parameter that is not listed. In this case; the parameter should be include before calling that function.	 	 	 	 	 	 
+ The copyOf function does not work in this case because it is not referenced before. It should invoke the grow array function.	 	 	 	 	 	 
+ The getNodeId v1 and v2 are coded wrong. They need to specify ranges to pull from.	 	 	 	 	 	 
+ It is blank	 	 	 	 	 	 
+ At least one public class is required in main file	 	 	 	 	 	 
+ yes	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ probably yes	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ yes	 	 	 	 	 	 
+ probably not	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ there should be a type check	 	 	 	 	 	 
+ the variable has not been  initialized 	 	 	 	 	 	 
+ I am not sure if it would work or not	 	 	 	 	 	 
+ There is no value specified for grow	 	 	 	 	 	 
+ incorrect input arguments are used	 	 	 	 	 	 
+ none	 	 	 	 	 	 
+ Missing info	 	 	 	 	 	 
+ Missing referent for line 4 scope	 	 	 	 	 	 
+ The text calls a blank message for an inability to load patch set.	 	 	 	 	 	 
+ No command is called	 	 	 	 	 	 
+ Loop is created by self-referencing	 	 	 	 	 	 
+ I am unfamiliar with this command.	 	 	 	 	 	 
+ Version is falling below the exception specified in line 10-11	 	 	 	 	 	 
+ may be the parameter is missing	 	 	 	 	 	 
+ should invoke a different function	 	 	 	 	 	 
+ no problem with the code	 	 	 	 	 	 
+ should be at a different place in the code	 	 	 	 	 	 
+ it may  return value is improperly used.	 	 	 	 	 	 
+ There is no problem with use of copyOf function in grow method it should perform the same function on different methods.	 	 	 	 	 	 
+ missing or wrong type of parameter	 	 	 	 	 	 
+ no error there in that line	 	 	 	 	 	 
+ some error in that place	 	 	 	 	 	 
+ i am not sure about that	 	 	 	 	 	 
+ no error in that line	 	 	 	 	 	 
+ no error in that line	 	 	 	 	 	 
+ yes there is a mistake	 	 	 	 	 	 
+ i am not sure about this	 	 	 	 	 	 
+ Not certain if a null item could cause this; but if item were null; the NPE would be raised in line 61.	 	 	 	 	 	 
+ "Tracing this code back to Research Group for Industrial Software; there doesnt seem to be any possibility for this exception here.  (Im looking at https://searchcode.com/codesearch/view/18037683/.)  getItems simply returns Collections.unmodifiableList for the given items; and unmodifiableList is definitely a supported method for Collections."	 	 	 	 	 	 
+ "The invocation involves no casting; including in the boolean args.  So this error wouldnt appear.  Line 79; which contains an explicit cast; is a much better candidate."	 	 	 	 	 	 
+ This falls into the category of "return value is improperly used"; because popping from an empty queue/stack is a common cause of such an error.  With that said; I can only say "probably"; because I have little experience with threading; and I don\t know how this library works (and thus; how it returns queues/stacks).	 	 	 	 	 	 
+ Bug description doesn\t sound like something that would arise from simply returning the next ordinal in a list.  It seems like something that might arise from the loop; in particular.  Now; every time I\ve used iterators; I\ve had an explicit collection.  I suppose it is possible that this iterator implicitly involves a function that incorporates this "Probing algorithm".  So I can\t be entirely certain.	 	 	 	 	 	 
+ The length property is an int; so when this value is large; multiplication by 3 might cause overflow; resulting in a negative value.  (Division by 2 obviously does not fix this issue.)	 	 	 	 	 	 
+ Casting an int to short can cause overflow; resulting in a negative value (like -532).	 	 	 	 	 	 
+ Int variables range from - to +. Is the array size rolling over from + to negative when the size gets to a certain point?	 	 	 	 	 	 
+ Probably there might be an error i think.	 	 	 	 	 	 
+ this program is not executable to cause null pointer exception	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ there is double section . this is an error	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ divide by 3 only not 2. so there is an error	 	 	 	 	 	 
+ probably there is  no error i think	 	 	 	 	 	 
+ No	 	 	 	 	 	 
+ I dont know	 	 	 	 	 	 
+ Get message is not declared	 	 	 	 	 	 
+ Multiple definition of get()	 	 	 	 	 	 
+ Looks fine	 	 	 	 	 	 
+ Not enough information about data	 	 	 	 	 	 
+ Looks complicated	 	 	 	 	 	 
+ It appears from the code that this function could very possibly cause unknown side effects in other areas of the code	 	 	 	 	 	 
+ I do not believe that there is anything wrong with this	 	 	 	 	 	 
+ It appears that the body is not complete	 	 	 	 	 	 
+ No I do not believe that there is 	 	 	 	 	 	 
+ In this case this would require some experimenting so see if there are issues with this	 	 	 	 	 	 
+ The parameters are ambiguous 	 	 	 	 	 	 
+ The size appears to be unspecified	 	 	 	 	 	 
+ No; nothing seems wrong in the declaration of the function; unless scope is not a global object and needs to be passed in as a parameter.	 	 	 	 	 	 
+ "The code looks fine to me; the add is adding an item. Since the question pertains to mapScopeItem and not .add; mapScopeItem seems to be doing its job fine. For this exception might need to look at .add"	 	 	 	 	 	 
+ A ClassCastException happens when an object is incorrectly cast to a function. But the function calls give the right type of class needed for the function. The only thing I can think of is maybe the getSection() needs a this. in front of them; or simply need to give the section object itself; since line 9 makes it seem the section object is available.	 	 	 	 	 	 
+ The NoSuchElementException is caused when there are no more elements in an enumeration. So if there is no current thread to end; then the exception will happen. This should be in a try catch block.	 	 	 	 	 	 
+ The parameters give a copy of the OrdinalIterator; but it appears that the iterator needs to go to the next Ordinal each time the function is called. this needs to happen in the parameter when calling the function; not in the function itself.	 	 	 	 	 	 
+ "The negativearraysizeexception is called if a negative value is returned for length. data cant have a length smaller than 0; and thus the copyOf function probably cant give a value less than 0 from the math done."	 	 	 	 	 	 
+ "That particular exception shouldnt be being caused by the while loop construct. the counters never go down."	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ looks like everything is fine 	 	 	 	 	 	 
+ unsure 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ it looks good to me 	 	 	 	 	 	 
+ it seems to be properly set up 	 	 	 	 	 	 
+ im really just unsure 	 	 	 	 	 	 
+ i dont belive so 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ No there is no wrong in this set 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ its total size is increment and calculating the integer size	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Change The valuee	 	 	 	 	 	 
+ dont understasnd	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ i could not find anything wrong. May be something missed or wrong	 	 	 	 	 	 
+ There is nothing wrong. Popping out the command which is completed	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The datatype of data is not given. The value of the data is not initialized	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ After revising the information;  I can not determine what is the error for this function.	 	 	 	 	 	 
+ In my opinion there is an error with the counter increment.	 	 	 	 	 	 
+ I personally believe that this conditional clause has several problems that need to be addressed.	 	 	 	 	 	 
+ In my opinion there is something wrong with the previous functions.	 	 	 	 	 	 
+ In my opinion there is an error with the command.	 	 	 	 	 	 
+ In my opinion  this function is wrong and needs to fixed in order to avoid errors.	 	 	 	 	 	 
+ In my opinion the error is the "i" instead of "j".	 	 	 	 	 	 
+ sometimes there is a problem to get a location	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Thrown to indicate that the code has attempted to cast an object to a subclass of which it is not an instance.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ sometimes the size of the array increases then the limit	 	 	 	 	 	 
+ it doesnot meet the argument type	 	 	 	 	 	 
+ create user	 	 	 	 	 	 
+ not assign counter	 	 	 	 	 	 
+ not map	 	 	 	 	 	 
+ disposed	 	 	 	 	 	 
+ not get	 	 	 	 	 	 
+ calculate size	 	 	 	 	 	 
+ NegativeArraySizeException for data larger than 2GB	 	 	 	 	 	 
+ get node id	 	 	 	 	 	 
+ unsure	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ If file version is null; for whatever reason; it is going to crash at line 87.	 	 	 	 	 	 
+ String buffer is properly initialized. This is not going to cause problems.	 	 	 	 	 	 
+ getItems is returning an unmodifiable list. If you call add on that list; it is generating the observed exception.	 	 	 	 	 	 
+ The ClassCastException is probably generated at line 79.	 	 	 	 	 	 
+ There is no check that currentCommand.get() is returning a nonempty collection. The semantic of pop could cause the observed exception	 	 	 	 	 	 
+ The problem seems related with nextOrdinal; but the body of that function is not visible.	 	 	 	 	 	 
+ Most probably data.length is a 32 bit integer; and when you are above 2 Gygabites you are going to go into overflow. So you are going into negative.	 	 	 	 	 	 
+ From what I can see; the problem is related to getVersion. getVersion is returning a long; but you are then converting that to a short. Truncating a long to a short can cause problems.	 	 	 	 	 	 
+ I do not think the problem lies with the conditional clause between lines 110 and 112	 	 	 	 	 	 
+ Where is the StringBuilder method defined?	 	 	 	 	 	 
+ Not sure where ReviewDslScope class type is being defined	 	 	 	 	 	 
+ "Though I cant seem to follow the logic behind using ! in front of textClientLabel on line 80."	 	 	 	 	 	 
+ I am not able to determine what the value of currentCommand should be at that point of the code	 	 	 	 	 	 
+ I can see where ordinals is defined; but not where ordinals is defined	 	 	 	 	 	 
+ It would be helpful to see where else arrays are being defined within the body of the code.	 	 	 	 	 	 
+ Obviously the version being returned does not fall within the range of accepted values; I would look more closely at how v1 is being defined and what its value is at the same point in the code.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ different place in the code; should invoke a different function	 	 	 	 	 	 
+ different place in the code	 	 	 	 	 	 
+ should invoke a different function	 	 	 	 	 	 
+ different place in the code; should invoke a different function	 	 	 	 	 	 
+ different place in the code	 	 	 	 	 	 
+ getGerritProvider	 	 	 	 	 	 
+ new counter	 	 	 	 	 	 
+ taskProperties	 	 	 	 	 	 
+ layout	 	 	 	 	 	 
+ public	 	 	 	 	 	 
+ privade	 	 	 	 	 	 
+ good	 	 	 	 	 	 
+ good	 	 	 	 	 	 
+ I have no idea	 	 	 	 	 	 
+ "I cant tell the code doesnt seem to indicate."	 	 	 	 	 	 
+ I cant tell nothing seems wrong	 	 	 	 	 	 
+ There does seem to be an extra parenthesis after .isDiposed	 	 	 	 	 	 
+ Static void; message not relaying...probably.	 	 	 	 	 	 
+ No it seems correct.	 	 	 	 	 	 
+ "I have no reference knowledge for this; so I cant tell; but I would guess probably not."	 	 	 	 	 	 
+ code should be in different place.	 	 	 	 	 	 
+ depends on public items i cant see	 	 	 	 	 	 
+ Not all lists support adding. The functioncall getItems calls .unmodifiableList(items) suggesting that it is a list that cannot be modified and therefore does not support add	 	 	 	 	 	 
+ The code looks very unsafe. But i cannot tell without seeing the getSection() method and what it returns.	 	 	 	 	 	 
+ Doesnt look like you checked for an empty command list beforehand	 	 	 	 	 	 
+ not sure of the implementation of nextOrdinal(). likely returns something that is not 	 	  NO_MORE_ORDINALS. null?	 	 	 	 
+ It is likely that data.length is big enough to cause "(data.length * 3) / 2" to be greater than Integer.MAX_VALUE creating a negative number there. 	 	 	 	 	 	 
+ The bug likely lies in something else setting the clock versions; or that number overflowing. Either way the constructor should throw those exceptions to force the following code to do checks on the version numbers to see if they are valid. Or the set method on versions should only allow valid versions	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ after sb.append try this variation instead   (type.getValue().item.getType(count))	 	 	 	 	 	 
+ after the first .getItems()) and before scope2 there should be a dot value (i.e. .240) etc 	 	 	 	 	 	 
+ "the quotes cant just have blank space between them"	 	 	 	 	 	 
+ you have to include .pop after CurrentCommand but I am not sure if you need to further define 	 	 	 	 	 	 
+ should be more like while(edgeOrdinal !	  etc	 	 	 	 	 
+ "although copyOf can lead to problems in certain cases I dont see any red alarms in this one."	 	 	 	 	 	 
+ try clock.version.size() rather than THIS version size	 	 	 	 	 	 
+ method grow needs a parameter named this	 	 	 	 	 	 
+ Hard to tell	 	 	 	 	 	 
+ "Ive never heard of UnsupportedMethodException"	 	 	 	 	 	 
+ you are trying to cast incorrectly 	 	 	 	 	 	 
+ "Doesnt recognize get. Have you declared properly"	 	 	 	 	 	 
+ Can ordinals ever equal NO-MORE_ORDINALS; are you calculating ordinal the way you are expecting?	 	 	 	 	 	 
+ grow returns this error if the new length is negative 	 	 	 	 	 	 
+ Scope problem? looks like getVersion is returning unacceptable value	 	 	 	 	 	 
+ Nik	 	 	 	 	 	 
+ Nik	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ Nil	 	 	 	 	 	 
+ need to delete code "stringbuilder" loop	 	 	 	 	 	 
+ ok	 	 	 	 	 	 
+ text client questionable  but variables seem ok  	 	 	 	 	 	 
+ looks complete	 	 	 	 	 	 
+ fine	 	 	 	 	 	 
+ It looks correct   parameters our in line	 	 	 	 	 	 
+ new Clock   variables in loop questionable	 	 	 	 	 	 
+ "There doesnt seem to be anything that does anything weird to nulls."	 	 	 	 	 	 
+ "Something called in there doesnt actually exist. I dont know what exactly it might be."	 	 	 	 	 	 
+ "appendMessage expects a string in the second place. theres a number of places where that might not always be the case."	 	 	 	 	 	 
+ "There doesnt seem to be any control that ensures currentCommand is nonempty."	 	 	 	 	 	 
+ "Id take a look at ordinalIterator and see if it ever actually returns NO_MORE_ORDINALS."	 	 	 	 	 	 
+ "grow() copies a data array into an new one 50% larger without checking if theres space to do so."	 	 	 	 	 	 
+ "Doesnt seem to be anything that would make large negative version values in that function in particular. Seems like what its calling is returning bad vales."	 	 	 	 	 	 
+ The NegativeArraySizeException is caused due to the second argument of copyof() method i.e. (data.length*3)/2 being negative. This might be due to data.length being a 32 bit integer and on increasing its size; the bug could be resolved.	 	 	 	 	 	 
+ ""	 	 	 	 	 	 
+ ""	 	 	 	 	 	 
+  j.v	 	jl	 bjkl	 	 	 
+ nk	 ?:.	 	 	 	 	 
+ "nl k Ml[\n"	 	 	 	 	 	 
+ xthkg	 	 	 	 	 	 
+ "bhknkl"	 ""	 	 	 	 	 
+ More space given.	 	 	 	 	 	 
+ Nothing wrong.	 	 	 	 	 	 
+ Nothing wrong.	 	 	 	 	 	 
+ The symbol is not put properly.	 	 	 	 	 	 
+ space is not provided.	 	 	 	 	 	 
+ There is no wrong in the line.	 	 	 	 	 	 
+ Nothing wrong.	 	 	 	 	 	 
+ The variables are in the right order and they have be declared and initialized before here. The only possibility is if the value of item is null; but that would have triggered an error before this line of code.	 	 	 	 	 	 
+ "I dont see anything wrong with this for-loop. Based on the code here; there doesnt seem to be an issue. "	 	 	 	 	 	 
+ "setText receives the value of message which is a string in both use cases. I would check the value of message to be sure; but I dont believe this is the issue. The issue may lie in line 79."	 	 	 	 	 	 
+ Not enough information is given about the value of the object currentCommand to determine if the pop is causing the issue.	 	 	 	 	 	 
+ The function is set up to run properly. It should iterate and calculate the sum and end when it reaches the end of the iteration.	 	 	 	 	 	 
+ The value of data.length could exceed the maximum value stored in an integer. If the value becomes to high; the sign will flip and bits will be discarded. This causes the potential negative number. 	 	 	 	 	 	 
+ No function declaration is fine. The issue is triggered from a ClockEntry constructor; which could possibly be line 248.	 	 	 	 	 	 
+ what is it supposed to produce? (what does the calling code expect?)	 	 	 	 	 	 
+ Error probably in mapScopeItem() Need methods for IReviewScopeItem; PatchScopeItem; ResourceScopeItem; and ChangesetScopeItem	 	 	 	 	 	 
+ Need more entire class that implements updateMessage and failed	 	 	 	 	 	 
+ threads are above my paygrade	 	 	 	 	 	 
+ Look at ordinals.iterator()	 	 	 	 	 	 
+ pointer might be better as private to this instance. http://docs.oracle.com/javase/7/docs/api/java/lang/class-useegativeArraySizeException.html\nPerhaps the error is somewhere in your reflection code?\n	 	 	 	 	 	 
+ Need to see method size() for this.versions and clock.versions	 	 	 	 	 	 
+ I think scope item is set to wrong variable	 	 	 	 	 	 
+ should move the patch set to a different layout.	 	 	 	 	 	 
+ I see no error	 	 	 	 	 	 
+ I dont see anything wrong	 	 	 	 	 	 
+ "I believe its wrong type of parameter values. I never stumbled upon this error; but i guess your array gets too big and its index overflows (e.g.; the integer wraps around and becomes negative). use another data structure; and most importantly; dont load all of the file at once (use lazy loading instead; that means; load only those parts that are being accessed)"	 	 	 	 	 	 
+ I dont see anything wrong	 	 	 	 	 	 
+ "I cant tell if its wrong"	 	 	 	 	 	 
+ I think it should be at a different place in the code	 	 	 	 	 	 
+ "Dont know "	 	 	 	 	 	 
+ I think it specifies the wrong return type	 	 	 	 	 	 
+ Tricky; not sure	 	 	 	 	 	 
+ "I think it might need a different parameter to work but Im not sure; Im not an expert in programming"	 	 	 	 	 	 
+ "Since its saying version -532 is not in the range; it wont work unless the version number is in the range"	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The calculate function is not correct 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The signs are not uniform	 	 	 	 	 	 
+ WRONG VARIABLE USED	 	 	 	 	 	 
+ Nothing wrong.	 	 	 	 	 	 
+ All will be correct.	 	 	 	 	 	 
+ There is no problems.	 	 	 	 	 	 
+ There is nothing wrong.	 	 	 	 	 	 
+ There is nothing wrong.	 	 	 	 	 	 
+ Enter key is used many and it will provide more space.	 	 	 	 	 	 
+ Nothing wrong.	 	 	 	 	 	 
+ yeah	 	 	 	 	 	 
+ It looks correct to me	 	 	 	 	 	 
+ I think that mapScope is improperly used here; try changing it around or reading some tutorials	 	 	 	 	 	 
+ "Need more context for this one; I cant tell"	 	 	 	 	 	 
+ I think that an improper function is being invoked	 	 	 	 	 	 
+ It appears to be set up to keep calculating without an exit condition	 	 	 	 	 	 
+ I think that it will work if you try changing it to this: this.data   Arrays.copyOf(data; (int)(((long)data.length * 3) / 2))   \n	 	 	 	 	 	 
+ "Its improperly getting a value for ClockEntry; it needs to be in the correct range"	 	 	 	 	 	 
+ code error when probably no parmaters issued   might be from improper code  Very sloppy initializaion causing this error	 	 	 	 	 	 
+ Capitizaion error 	 	 	 	 	 	 
+  or possible indexing issue  not sure	 	 	 	 	 	 
+ looks ok	 	 	 	 	 	 
+ varibles and parametes look fine	 	 	 	 	 	 
+ correct paramater	 	 	 	 	 	 
+ Capitalization error 	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ Just not sure	 	 	 	 	 	 
+ "The function copyOf doesnt serve like "	 	 	 	 	 	 
+ counts.get(key) can be null	 	 	 	 	 	 
+ mapScopeItem(item) can return null	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ need to check for null	 	 	 	 	 	 
+ NO_MORE_ORDINALS is checked	 	 	 	 	 	 
+ Missing validation of data.length to make sure data.length*3/2 is not bigger than an int	 	 	 	 	 	 
+ Where does versions come from?	 	 	 	 	 	 
+ "The function convertScopeToDescription() is called in function block of getDescription() there its description "	  convertScopeToDescription()	 " and the description is given value Null. Thats why its giving NullPointerException"	 	 	 	 
+ scope2 is undefined; so the error occurring due to scope2.getItems()	 	 	 	 	 	 
+ Function is declared properly but i think it needs correct parameters 	 	 	 	 	 	 
+ I think get() function cannot be used just before pop function. 	 	 	 	 	 	 
+ Yes; it might because of OrdinalIterator exception. 	 	 	 	 	 	 
+ "I think its used at correct place to invoke particular method with its parameters "	 	 	 	 	 	 
+ "I Dont think theres something wrong. "	 	 	 	 	 	 
+ In my opinion there may not be any wrong regarding this. Grow is defined below that.  So it might be error less.	 	 	 	 	 	 
+ "It doesnt seem to be the problem."	 	 	 	 	 	 
+ Try using a different function with the convertscopetodescription to try and solve the issue.	 	 	 	 	 	 
+ The issue seems to be caused there; maybe try using a different function.	 	 	 	 	 	 
+ "It seems like you should use a different variable; because it doesnt seem it can locate that variable."	 	 	 	 	 	 
+ "The .get function doesnt seem to be the issue."	 	 	 	 	 	 
+ "It doesnt seem to exit at the expected iteration; maybe use a different function."	 	 	 	 	 	 
+ "The issue doesnt seem to correspond with the function copyOf"	 	 	 	 	 	 
+ The merge function seems to be causing the issue; maybe causing the exception	 	 	 	 	 	 
+ Not sure.	 	 	 	 	 	 
+ wrong Boolean operator	 	 	 	 	 	 
+ Not sure.	 	 	 	 	 	 
+ Not sure	 	 	 	 	 	 
+ Not sure	 	 	 	 	 	 
+ Not sure	 	 	 	 	 	 
+ Declaration is required	 	 	 	 	 	 
+ Not sure	 	 	 	 	 	 
+ looks good to me maybe the problem is something else	 	 	 	 	 	 
+ "it doesnt look bad"	 	 	 	 	 	 
+ "Its not beuno "	 	 	 	 	 	 
+ "I dont think that the values of the layout function are what the problem is "	 	 	 	 	 	 
+ Looks good	 	 	 	 	 	 
+ "I cant tell "	 	 	 	 	 	 
+ I would go through every single line checking for slight errors	 	 	 	 	 	 
+ one too many ) at the end of line 249 	 	 	 	 	 	 
+ Check that the file exists; first.	 	 	 	 	 	 
+ must first check that new counter does not equal to null	 	 	 	 	 	 
+ must first define function mapScopeItem()	 	 	 	 	 	 
+ "I cant tell because I dont understand the code."	 	 	 	 	 	 
+ "check for element so there wont be a NoSuchElementException thrown."	 	 	 	 	 	 
+ Must make sure that NO_MORE_ORDINALS is a real and static number; also must increment or decrement for while loop.	 	 	 	 	 	 
+ The array will be copied by data.length*1.5; so it will grow by half of the data originally.	 	 	 	 	 	 
+ Do a range check before so the exception will not be thrown.	 	 	 	 	 	 
+ it will never stop growing	 	 	 	 	 	 
+ "NegativeArraySizeException is thrown when the second parameter of copyOf is negative (as you cant have a negative-sized array). If I had to guess; the index of the array reached its maximum and overflowed; due to the large size of the array (>2GB); leading it to wrap around to a negative number and thus making the second parameter of copyOf a negative value."	 	 	 	 	 	 
+ "There are no issues with the invocation of the function setDescription in the function addComments."	 	 	 	 	 	 
+ The parameters are all correct.	 	 	 	 	 	 
+ I am unsure. It looks ok to me.	 	 	 	 	 	 
+ In this piece of code \npublic void failed(IRepository parentObject; IReview modelObject; IStatus status) {      \n    AbstractReviewSection.appendMessage(getSection(); "Couldn\t load patch set: " + status.getMessage())  \n   }   \nthere are too many parameters trying to be passed to the appendMessage function.	 	 	 	 	 	 
+ Everything looks fine.	 	 	 	 	 	 
+ The only issue I can see is that there is that the program does not know when there are no more ordinals; although it might be in other parts of the code.	 	 	 	 	 	 
+ The declaration looks to be fine.	 	 	 	 	 	 
+ "Everything looks good with the values of the parameters received by the function ClockEntry."	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ it should just be 3 / 2 it would need to be byte or parameter	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ "Perhaps the value of version isnt null; but not what the program was expecting. This would cause the null check at line 88 to fail; but everything else would fail since the version was malformed. "	 	 	 	 	 	 
+ Any time you try to get something out of a map you have to check for null since that key may not be mapped to anything. 	 	 	 	 	 	 
+ It depends on if those functions use deprecated code. If they do the UnsupportedMethodException would throw.	 	 	 	 	 	 
+ A Label object and whatever is returned by section.getTextClient() may not inherit from each other; thus casting them would not be possible.	 	 	 	 	 	 
+ If there was no value returned by get() then the pop() would not work since it is popping on an exception.	 	 	 	 	 	 
+ If that ordinal was not put into the list; then the following would run indefinitely. going until the iterator has no more elements would work better.	 	 	 	 	 	 
+ An integer overflow is possible causing the value to become negative	 	 	 	 	 	 
+ If that value was improperly inserted into the map by one of the clock values this could  happen. 	 	 	 	 	 	 
+ I have no idea.	 	 	 	 	 	 
+ I have no idea.	 	 	 	 	 	 
+ I have no idea.	 	 	 	 	 	 
+ I am guessing.	 	 	 	 	 	 
+ No idea.	 	 	 	 	 	 
+ I have no idea.	 	 	 	 	 	 
+ I have no idea.	 	 	 	 	 	 
+ I have no idea.	 	 	 	 	 	 
+ I think it alright with the body.	 	 	 	 	 	 
+ "I dont know"	 	 	 	 	 	 
+ I think there is nothing wrong.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "I think its alright. I dont know why."	 	 	 	 	 	 
+ "Well; I dont know"	 	 	 	 	 	 
+ "Well; I dont know how to describe"	 	 	 	 	 	 
+ There is no possibility	 	 	 	 	 	 
+ "not totally sure about that one. I know basic java. Im not THAT advanced yet"	 	 	 	 	 	 
+ the boolean is correct; which mean that the comparasion is correct	 	 	 	 	 	 
+ everything looks to be in order. It may need to be inside the () though	 	 	 	 	 	 
+ it would just come up blank.	 	 	 	 	 	 
+ get should be currentCommand	 	 	 	 	 	 
+ everything LOOKS to be in order. 	 	 	 	 	 	 
+ I think it would have infinite copies. I think I may be wrong though; not totally sure	 	 	 	 	 	 
+ too many parentheses	 	 	 	 	 	 
+ There should be a if(skipSet !	  null) check before calling skipset.add().	 	 	 	 	 
+ The function in the IF condition return Boolean value	 	 	 	 	 	 
+ Wrong order 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ If the column object somehow was null due to an issue with its instantiation; but we are guaranteed that label wont be null so it is not the source of the exception.	 	 	 	 	 	 
+ The invocation of clear looks fine.	 	 	 	 	 	 
+ No that line is correct.	 	 	 	 	 	 
+ "No the conditional clause is fine. Checking to see if comments is null before checking if comments is zero is the right way. "	 	 	 	 	 	 
+ no chance	 	 	 	 	 	 
+ correct code	 	 	 	 	 	 
+ correct code	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "Cant think of a possible error case for this one."	 	 	 	 	 	 
+ Line 537 seems to have the issue; since objAttribute can be null at that point.	 	 	 	 	 	 
+ should be: boolean changed   (comments.size() !\n	 	 	 	 	 	 
+ If the file.getAbsoluteFilePath() returns null; and files does not permit null elements; it will throw an NPE. Likewise if it returns something that is not an FTPFile. Most likely the error is in line 78 though; trying to get the parent.	 	 	 	 	 	 
+ "Cant tell if that line causes the problem without looking at the details of the GenericFileOperations and GenericFile classes."	 	 	 	 	 	 
+ "Cant tell without knowing if attribute.getName() could possibly return null on line 542."	 	 	 	 	 	 
+ Return value of version.getComments() should be checked before invoking size()	 	 	 	 	 	 
+ "There doesnt seem to be anything wrong with line 80"	 	 	 	 	 	 
+ I really cannot tell on this one.	 	 	 	 	 	 
+ It looks fine to me.	 	 	 	 	 	 
+ "No; the function looks like it will perform its action as intended."	 	 	 	 	 	 
+ Yes; the variable is left blank causing the null pointer exception.	 	 	 	 	 	 
+ Yes; the function variable needs to be properly defined to prevent the null pointer exception.	 	 	 	 	 	 
+ files needs to checked for null	 	 	 	 	 	 
+ Need to do a check for null on line 542	 	 	 	 	 	 
+ version.getComments().clear()	  line needs to come after null check on line	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ spelling	 	 	 	 	 	 
+ spelling	 	 	 	 	 	 
+ Surround the block with null check to avoid such things happening	 	 	 	 	 	 
+ "I cant tell   "	 	 	 	 	 	 
+ "I dont find a mistake there"	 	 	 	 	 	 
+ The variable "length" is not assigned anywhere else in the function after initial assignment of Long.MIN_VALUE.  This variable "length" is compared with undefined variable "minLength".  However to throw null pointer exception a method invocation should happen on null object.  I cannot see any line where this can potentially happen.	 	 	 	 	 	 
+ "I just dont think there would be."	 	 	 	 	 	 
+ No	 	 	 	 	 	 
+ Not real sure.	 	 	 	 	 	 
+ should be fttp files	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The conditional clause itself seems correctly written.  The function called to return the boolean operator does not return a null type.  The issue is probably in the size of list of FTPFiles called "files"	 	 	 	 	 	 
+ There are misplaced parenthesis followed by a boolean interruption on line 99.	 	 	 	 	 	 
+ The getName is not returning correctly below	  it is returning null below.	 	 	 	 	 
+ creatUser should appear earlier in the sequence and causes the id to be null later on.	 	 	 	 	 	 
+ "I dont think so; because the if statement is just using comparisons between variables; no functions are being called; so nulls should not throw an exception here."	 	 	 	 	 	 
+ Well there should be null checking in general; but the function parameter declarations should be fine.	 	 	 	 	 	 
+ Code is attempting to use null where an object is required.	 	 	 	 	 	 
+ Object is required; null is not acceptable.	 	 	 	 	 	 
+ Code cannot use null where an object must be used.	 	 	 	 	 	 
+ Cannot use null; getName should pull actual data. 	 	 	 	 	 	 
+ has unanticipated side effects	 	 	 	 	 	 
+ Param values are not checked for before use.	 	 	 	 	 	 
+ The command that is given can be used and executed properly.	 	 	 	 	 	 
+ The get command is put in the right place; and will execute what is needed to be done.	 	 	 	 	 	 
+ needs to invoke a different function.	 	 	 	 	 	 
+ might have a misplaced parenthesis.	 	 	 	 	 	 
+ "I cant tell without debugging it."	 	 	 	 	 	 
+ good	 	 	 	 	 	 
+ wrong branch	 	 	 	 	 	 
+ different placement	 	 	 	 	 	 
+ "Im not sure. Could one be giving an absolute path while the other a relative? I dont know enough about FTPFile ops in Java"	 	 	 	 	 	 
+ "I havent the foggiest."	 	 	 	 	 	 
+ "I really dont know"	 	 	 	 	 	 
+ "I dont understand the request"	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ no idea	 	 	 	 	 	 
+ " NullPointerException to be invoked at line 82 wouls mean that file.getFileNameOnly() returns null; but it souldnt happen"	 	 	 	 	 	 
+ "if both attribute and column have the propriety nam shouldnt throw a  NullPointerException"	 	 	 	 	 	 
+ "Since I check that the comments is neither empty or null I shouldnt get a Null Pointer Exception when I do gerritComment.getLine()"	 	 	 	 	 	 
+ it makes the call to a null	 	 	 	 	 	 
+ Yes; simply wrong	 	 	 	 	 	 
+ It looks fine to me; might be a problem elsewhere	 	 	 	 	 	 
+ maybe yes: should check if f is null before calling f.getName() maybe no: file (passed as argument of acquireExclusiveReadLock) may be null	 	 	 	 	 	 
+ attribute may be null	 	 	 	 	 	 
+ gerritComment is an element from comments. While we check whether comments is null or empty at line 88; we should also check whether gerritComment is null at line 97.	 	 	 	 	 	 
+ The invocation is correct	 	 	 	 	 	 
+ There is nothing wrong with the invocation of function "remove".	 	 	 	 	 	 
+ There is nothing wrong with the invocation of function "getLine".	 	 	 	 	 	 
+ If one of the File objects does not have certain attributes; like name; timestamp; and the values are Null; then you will get this exception. So first need to add something like :\nif (f.getTimeStamp() !  null) {\n \n} \n	 	 	 	 	 	 
+ "I dont see how this code could generate a NullPointer Exception"	 	 	 	 	 	 
+ You should add code to review that getRanges() does not return a null value. If it does; skip the rest of the code.	 	 	 	 	 	 
+ "min_length isnt defined"	 	 	 	 	 	 
+ should be at a different place in the code	 	 	 	 	 	 
+ "i dont think there is a problem with this part"	 	 	 	 	 	 
+ looks acceptable i believe	 	 	 	 	 	 
+ wrong order	 	 	 	 	 	 
+ hard to tell	 	 	 	 	 	 
+ The NPE is most probably being caused before that; e.g line 83 could be a place where the NPE occurs because the List of files has a null element in them.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ CreateComment MUST be returning null due to some corner condition. Please provide code for createComment.	 	 	 	 	 	 
+ If file is not null; the method will work well	 	 	 	 	 	 
+ I need more information to take my decision.	 	 	 	 	 	 
+ gerritComment is not changed; so it would be the same if change the place.	 	 	 	 	 	 
+ I assume that there is because it states program execution causes NullPointerException	 	 	 	 	 	 
+ The invocation of equals() seems well formed; and if the invocations of getName() and getFileNameOnly() do not return what is expected because of what they are passed; the comparison should just end up false.	 	 	 	 	 	 
+ "I just cant tell."	 	 	 	 	 	 
+ I believe there is a wrong counter increment	 	 	 	 	 	 
+ Correct	 	 	 	 	 	 
+ Should be at a different place in the code	 	 	 	 	 	 
+ Because of the for-loop	 	 	 	 	 	 
+ Wrong invocation	 	 	 	 	 	 
+ Because of line 05	 	 	 	 	 	 
+ if the file name returned by the getFileNameOnly() is null; you might get the exception	 	 	 	 	 	 
+ if attributeOverrides 	  new HashMap<ObjAttribute	 ColumnDescriptor>()	  return null	 one could get the NullPointerException	 	 
+ It can happen that List<FTPFile> files are initialised null and dont get updated in the if-else. Its better to put a null check before accessing the name of the file	 	 	 	 	 	 
+ This looks fine	 	 	 	 	 	 
+ This needs more symbols	 	 	 	 	 	 
+ "doesnt say what ExlcusiveReadLockStrategy is inside the function call"	 	 	 	 	 	 
+ "dont check for null values throughout code before using objects"	 	 	 	 	 	 
+ looks alright. not sure. if clause looks correct.	 	 	 	 	 	 
+ probably should not say clear	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ I don\t believe the program understands the "Millis" term; possibly change it to a recognizable time (i.e.-seconds; minutes; hours)	 	 	 	 	 	 
+ return statement is at the wrong place	 	 	 	 	 	 
+ It seems like if you can\t find a file version then "version" would be a null value. That would give you a NullPointerException when you try to run .getComments().	 	 	 	 	 	 
+ Those lines seem correct.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ It is just simple	 	 	 	 	 	 
+ There is no instantiation of files. 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ String alias;\n getCurrentAlias()++;\n if (skipSet.add(new ColumnTracker(alias; attribute))) {	 	 	 	 	 	 
+ You have done a lot of null check but the variable DbAttribute attribute in line 519  is not null-checked. That could be the cause.	 	 	 	 	 	 
+ all are coded correct	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ May not serve the purpose of the code	 	 	 	 	 	 
+ "There isnt any point in execution where line 84 would execute if there was a null file. Perhaps the file it is reading has a corrupted header?"	 	 	 	 	 	 
+ I am not sure if the selected lines will ever actually execute.	 	 	 	 	 	 
+ Your are trying to acquire a value that is being referenced by a pointer type.	 	 	 	 	 	 
+ it is exactly correct.	 	 	 	 	 	 
+ To much happening; would need a debugging tool.	 	 	 	 	 	 
+ "Cant see full code."	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Line 113 is fine. Problem is in line 87.	 	 	 	 	 	 
+ No error between line 69 and 73.	 	 	 	 	 	 
+ Need to see full definition of ReviewScope to debug.	 	 	 	 	 	 
+ Most likely getParent() returns a class that does not have layout() method.  Cannot tell from given code section.	 	 	 	 	 	 
+ Call to get() should be surrounded by checks such as if (hasMoreElements()) { }	 	 	 	 	 	 
+ Need to see definition of NO_MORE_ORDINAL.	 	 	 	 	 	 
+ Java array index cannot be larger than 2^31	 	 	 	 	 	 
+ "Error is on line 248 which casts from long to short."	 	 	 	 	 	 
+ "I dont know this"	 	 	 	 	 	 
+ I see the code is error free	 	 	 	 	 	 
+ I cant tell this	 	 	 	 	 	 
+ "I dont think this kind of method calling is possible in java"	 	 	 	 	 	 
+ I am not sure if such method invoking exists in Java	 	 	 	 	 	 
+ This is a short hand assignment; perfectly used	 	 	 	 	 	 
+ Exception Handling was not included in the function; including the try catch block will help us in knowing the exact error	 	 	 	 	 	 
+ I have no idea about this; need to Google this and understand	 	 	 	 	 	 
+ It seems correct to me	 	 	 	 	 	 
+ Should be at a different place in code 	 	 	 	 	 	 
+ Return statement is at the wrong place 	 	 	 	 	 	 
+ Wrong variables	 	 	 	 	 	 
+ Different parameters needed	 	 	 	 	 	 
+ Not computing expected results	 	 	 	 	 	 
+ It seems that something is missing 	 	 	 	 	 	 
+ "Im not sure "	 	 	 	 	 	 
+ I am not sure what is causing that issue.	 	 	 	 	 	 
+ "The function is throwing a ClassCastException because in the appendMessage function; on line 79; is attempting to cast an object to a subclass of which it is not an instance. Might want to try turning the Label into a string; and then setting the labels text property."	 	 	 	 	 	 
+ "This exception is thrown to indicate that there are no more elements in the enumeration; or stack. Before calling the currentCommand.get().pop(); its best to check if their is an element to pop. Try something like the following:\nif(currentCommand.get().next() !\n{\ncurrentCommand.get().pop()\n}"	 	 	 	 	 	 
+ The while loop is never going to break; or end. It is an infinite loop; and you will run out of memory before it ever finishes. 	 	 	 	 	 	 
+ Your array can not exceed 2GB in length; this is the array size limit imposed by Java. It means your (data.length * 3) / 2) equals about 3GB; which might overflow the size of int; causing the index of the array to become negative.	 	 	 	 	 	 
+ The range is out of scope. It must be between 1 and 32767; and you are passing in -532. Insert a statement to check for correct values between 1 and 32767.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ broken code	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ code error	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The call to get() is fine; since earlier the same call is made when setting count. The error likely lies with the .item attribute being null which causes the null pointer exception.	 	 	 	 	 	 
+ "The type of the getItems function is an unmodifiable list meaning that calling the add function on it would clearly be an ACL violation. Therefore the type doesnt even have the add function Im assuming which causes the unsupported method exception. "	 	 	 	 	 	 
+ "The conditional looks completely fine and doesnt do anything that would cause a ClassCastException."	 	 	 	 	 	 
+ "The pop() function is usually called on some sort of enumeration; and if the enumeration has no more elements then you will get this error. There should be a check to make sure that the end of the queue/stack/whatever hasnt been reached. Not knowing the type that get() returns makes proper debugging difficult."	 	 	 	 	 	 
+ As long as we can be sure nextOrdinal() will eventually return the value NO_MORE_ORDINALS then the while loop is fine.	 	 	 	 	 	 
+ "The .length property of an array I believe is of type int. When you take this int value and multiply by 3 it could overflow the max_value of an integer. This will cause the value to jump to the far negative which would cause a negative array size exception. This is likely when the value of the arrays length is very large."	 	 	 	 	 	 
+ The for loop is not the issue.	 	 	 	 	 	 
+ "Doesnt need a parameter not listed."	 	 	 	 	 	 
+ There should be no problems calling private methods from the own class. No external classes are able to call a private method.	 	 	 	 	 	 
+ "I dont see any reason why setText would be wrong. "	 	 	 	 	 	 
+ there needs to be a check to see if there is an element to pop before popping. There needs to be something to handle NoSuchelementexceptions if this exception occurs.	 	 	 	 	 	 
+ "There is nothing I see wrong with the invocation of function calculateVIntSize."	 	 	 	 	 	 
+ Doesn\t need any parameters not listed if the method "grow" is within the current class with the array "data".	 	 	 	 	 	 
+ "There is nothing wrong with the invocation of function size. "	 	 	 	 	 	 
+ correct code	 	 	 	 	 	 
+  code have some problem	 	 	 	 	 	 
+ Not sure	 	 	 	 	 	 
+ correct code	 	 	 	 	 	 
+ correct code	 	 	 	 	 	 
+ Just for logic	 	 	 	 	 	 
+ correct code	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Possible that layout is not able to be called from getParent	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Incorrect use of counts TreeMap	 	 	 	 	 	 
+ "getItems() returns an unmodifiable List; which cant be added to directly."	 	 	 	 	 	 
+ "Not familiar with SWT widgets; so I cant tell."	 	 	 	 	 	 
+ Unclear which version of the get() function is being called.	 	 	 	 	 	 
+ Looks good.	 	 	 	 	 	 
+ If buf.length() happens to be more than (data.length * 3) / 2; this function will fail.	 	 	 	 	 	 
+ An exception might be thrown; but not because of the iteration code on line #265. The likely error is further down the chain.	 	 	 	 	 	 
+ I would say your issue would have to do with line 79; the cast to Label; or line 81; the implicit cast of "message" to string. However; without additional knowledge of the Section method; or the getSection() method; I can\t tell.	 	 	 	 	 	 
+ I don\t know anything about Hystrix. I wouldn\t think that the "pop" would be incorrect; probably the "get"; but there are so many overridden methods below that there\s no way to tell in which one the error lies.	 	 	 	 	 	 
+ copyOf uses an int for newLength; and the max size for an int is 2GB. 2GB/3*3	 2GB so it will fail. You should try to use a function that does not use an "int" value. I do not know what function that would be.	 	 	 	 	 
+ "Cant tell if the scope object has been correctly instantiated at that point."	 	 	 	 	 	 
+ "getItems returns an unmodifiable view which shouldnt support the add method."	 	 	 	 	 	 
+ The exception is most likely caused by the casting of the result of section.getTextClient to object Label.	 	 	 	 	 	 
+ Nothing wrong with the declaration.  There should be better error checking on currentCommand.get().	 	 	 	 	 	 
+ "There doesnt appear to be anything unusual about the function invocation.  Perhaps the nextOrdinal function needs to be checked to ensure its return values match what is being checked in the loop condition."	 	 	 	 	 	 
+ The declaration is not the problem.  The problem is due to the limitation of integer arithmetic.	 	 	 	 	 	 
+ The for loop initialization; increment and exit condition appear ok.	 	 	 	 	 	 
+ Seems to be formatted properly	 	 	 	 	 	 
+ Most likely needs different parameters to produce the correct result	 	 	 	 	 	 
+ The parenthesis are misplaced. The exclamation mark should not be within them.	 	 	 	 	 	 
+ Definitely should be in a different place in the code.	 	 	 	 	 	 
+ The plus sign next to the equal sign could be the problem	 	 	 	 	 	 
+ It seems as though the wrong variables have been used as parameters and that there are missing and the wrong type of parameters and they are in the wrong order. I could be wrong; I am only a novice.	 	 	 	 	 	 
+ Everything seems fine	 	 	 	 	 	 
+ Yes; the function needs to be correctly defined and there is misplaced parentheses.	 	 	 	 	 	 
+ No; the function looks like it retrieves the information correctly. The side effect is minimal and result of the surrounding code.	 	 	 	 	 	 
+ The function variables may not be properly defined in the code.	 	 	 	 	 	 
+ "No; the invocation looks like its properly implemented in the code and wont have any side effects."	 	 	 	 	 	 
+ "The while-loop looks like its producing as intended and does exit when expected."	 	 	 	 	 	 
+ The function could use different variables that would have different parameters to limit them.	 	 	 	 	 	 
+ The size could merge differently and not function correctly if the variable is too large.	 	 	 	 	 	 
+ "I dont see any way that line could cause that error."	 	 	 	 	 	 
+ Cannot understand this code	 	 	 	 	 	 
+ Before doing 	 scope2.getItems().add()	 need to check for null value	 	 	 	 
+ 	 	 	 	 	 	 
+ endCurrentThreadExecutingCommand needs to check for value of get() before doing pop() on it	 	 	 	 	 	 
+ If ordinalIterator.nextOrdinal() iterates a circular list; this will be an infinite loop	 	 	 	 	 	 
+ grow() needs to have parameters and a return code	 	 	 	 	 	 
+ Code is too verbose	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ spelling	 	 	 	 	 	 
+ spelling	 	 	 	 	 	 
+ spelling	 	 	 	 	 	 
+ spelling	 	 	 	 	 	 
+ spelling	 	 	 	 	 	 
+ spelling	 	 	 	 	 	 
+ It is hitting a problem with Arrays.copyOf taking an integer as the new length of the array; the max size of an int coincides with the 2gb of data; so the int wraps around to the negative side.	 	 	 	 	 	 
+ The boolean operator is right.	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ The map seems to be empty. 	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ The object data does not exist in the grow function	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ There is nothing wrong in the code snippet between lines 80 and 83.  This code would execute fine if the passed object "section" is well populated in the rest of the code.  If "section" parameter to appendMessage variable is not correctly set to a "Label" object; then the typecasting to Label object on line 79 would cause ClassCastException.	 	 	 	 	 	 
+ I do not see any error with the way the code is written.  Both the lines where grow() method is invoked look fine with no issues as such.	 	 	 	 	 	 
+ There is nothing inside the ()	 	 	 	 	 	 
+ it is hard to tell	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ It seems to be logical.	 	 	 	 	 	 
+ "It just wouldnt."	 	 	 	 	 	 
+ "I cant tell."	 	 	 	 	 	 
+ "I cant be sure."	 	 	 	 	 	 
+ "I just cant tell."	 	 	 	 	 	 
+ "i dont know java"	 	 	 	 	 	 
+ "I dont know java"	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ .public to replace.get	 	 	 	 	 	 
+ nonpoluatedbites+ calculateCDenSize	 	 	 	 	 	 
+ grow should be in the parenthesis	 	 	 	 	 	 
+ getnode_id	 	 	 	 	 	 
+ "Its unclear what NLS.bind actually does or what it returns.  I would tend to think that the issue is with NLS.bind unless the implied concatenation of strings in line 82 is the culprit. "	 	 	 	 	 	 
+ If .pop() returns a nosuchelement exception it is likely that the flaw is in currentCommand.get() and unfortunately the source code simply is not provided	 	 	 	 	 	 
+ If the while loop is set to run while ordinal !	  some constant value	 I can only conclude that NO_MORE_ORDINALS is never being reached	 	 	 	 
+ "If the code is returning a negative array size exception at that size; this suggests that data.length is exceeding the maximum size for an integer primitive type.  Predictably; this is occurring at 2 GB / 3 which is the mathematical reciprocal of 3/2 in line 121.  By default; the int data type is a 32-bit signed twos complement integer which explains why your code is getting the negative array size.  The int value has overflowed."	 	 	 	 	 	 
+ Not familiar with vector clocks; however the value supplied to the constructor should be between 1 and 32767.  The fact that a -532 is supplied; suggests that the code has incremented the value in question past 32767 at some point	 	 	 	 	 	 
+ The code appears to be working correctly in the lower examples; the convertScopeToDescription seems to be right.	 	 	 	 	 	 
+ The for loops do not contain any counter increments.	 	 	 	 	 	 
+ There are misplaced parenthesis with no data in them at the end of the line.	 	 	 	 	 	 
+ The code appears after the errors occur.	 	 	 	 	 	 
+ The code appears to be written correctly.	 	 	 	 	 	 
+ I think that maybe it should be (data.length * 2) / 3) instead of (data.lenth *3) / 2).	 	 	 	 	 	 
+ The versions are not correctly listed in the source code.	 	 	 	 	 	 
+ Well there is no null checking on the gerritComment not being null.	 	 	 	 	 	 
+ The entrySet function could return a null or the counts variable could be null (less likely since it is used above).	 	 	 	 	 	 
+ Well there is no checking on the scope to see if it has a value or that it actually implements the function.	 	 	 	 	 	 
+ "A section type has a getTextClient function which the result is being cast as a label; however I dont know what the real return type is; so it is very likely that when isDisposed() is called; the function is trying to cast the type and throwing the exception."	 	 	 	 	 	 
+ "Probably; because the element is probably being enumerated but there is no next element or this element doesnt exist."	 	 	 	 	 	 
+ "I cant tell if the calculateVIntSize function is working correctly; as it is doing some byte math to get the ones that are being used; but I think the nextOrdinal should still run out of ordinals."	 	 	 	 	 	 
+ "Well the copyOf function is being sent the length of the array; which even if the arrays length is 0; this shouldnt throw the negative exception since it wont be negative.  It could be related to an int overflow that is not handled in the library code since such large values are being dealt with."	 	 	 	 	 	 
+ "The version could possibly be negative which is being passed to Math.max; which just receives two getVersions; and we dont know that these are positives."	 	 	 	 	 	 
+ "It appears variable type isnt assigned."	 	 	 	 	 	 
+ if the growth size; i.e. (data.length*3)/2; is less than size of b it can make problem.	 	 	 	 	 	 
+ it seems there is something wrong	 	 	 	 	 	 
+ I would need more information.	 	 	 	 	 	 
+ Code is such that it is using null when an object is required.	 	 	 	 	 	 
+ "Object required; cant be null."	 	 	 	 	 	 
+ Examine the particulars of the scope and scope2.	 	 	 	 	 	 
+ "Code is attempting to cast an object to a subclass where its not an instance of the subclass."	 	 	 	 	 	 
+ Indicates the end of a list has been reached and no more elements are available.	 	 	 	 	 	 
+ Code is caught in a repetitive pattern. Use different specifics.	 	 	 	 	 	 
+ There are evidently limits to the length of array possibilities.	 	 	 	 	 	 
+ Appears that an entry is outside of the stated range.	 	 	 	 	 	 
+ When an object is needed; the result of null is not acceptable.	 	 	 	 	 	 
+ Cannot use null value. Be sure an object is available to convert to description.	 	 	 	 	 	 
+ Unclear as to how this would cause the error.	 	 	 	 	 	 
+ "Code tries to cast an object to a subclass where it doesnt belong."	 	 	 	 	 	 
+ Usually indicates there are no more elements in the list.	 	 	 	 	 	 
+ Suggest different parameters to avoid looping.	 	 	 	 	 	 
+ "While its possible to calculate beyond limits; the length of the array cannot exceed the limit."	 	 	 	 	 	 
+ Code passes a method (-532) which is not in the prescribed range.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The source of the error seems to be coming from when the grow method is called in the write method	 	 	 	 	 	 
+ should be a different place in the code	 	 	 	 	 	 
+ makes a call to a null pointer	 	 	 	 	 	 
+ needs different parameters to produce the correct result	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The parameter is divided by 2 instead of 3 and the data length should be 2.	 	 	 	 	 	 
+ j instead of i	 	 	 	 	 	 
+ This is a bit over my head	 	 	 	 	 	 
+ I did not find an error.	 	 	 	 	 	 
+ no issues seen	 	 	 	 	 	 
+ No issues seen at Line 76	 	 	 	 	 	 
+ "doesnt check for the mapScopeItem(item)"	 	 	 	 	 	 
+ No error is apparent from the snippet	 	 	 	 	 	 
+ Not able to tell	 	 	 	 	 	 
+ nextOrdinal is not giving junk value to ordinal.	 	 	 	 	 	 
+ If the size of data is more than the machine byte length due to round over the expression data.length*3 could result in a negative value.	 	 	 	 	 	 
+ version parameter may come unintialized to the constructor.	 	 	 	 	 	 
+ dont know	 	 	 	 	 	 
+ I would try to use in 2nd argument:  max( (data.length / 2 ) * 3; 357913941)	 	 	 	 	 	 
+ Comparison is wrong	 	 	 	 	 	 
+ return statement is wrong	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "cant tell"	 	 	 	 	 	 
+ "I dont feel that I have enough information"	 	 	 	 	 	 
+ The command given is used properly and will execute what is needed to be done.	 	 	 	 	 	 
+ It may need different parameters in order for it to work properly.	 	 	 	 	 	 
+ The command used in the code is used properly and will work right.	 	 	 	 	 	 
+ The get command should be used at the beginning of the line	  for example	 instead of currentCommand.get	 it should be get.currentCommand.	 	 	 
+ The lines of code are used properly and will execute what it is supposed to do.	 	 	 	 	 	 
+ The number arrangement in line 121 is not in the proper order.  When putting in the numbers; they must be in order.	 	 	 	 	 	 
+ The get command is supposed to be at the beginning of the command; so that it reads get.this.versions.	 	 	 	 	 	 
+ I thing it requires a missing parameter.	 	 	 	 	 	 
+ The return value may be incorrect.	 	 	 	 	 	 
+ it needs to invoke a different function.	 	 	 	 	 	 
+ "It may require a  parameter that isnt listed."	 	 	 	 	 	 
+ "I dont think that there is a problem with this code."	 	 	 	 	 	 
+ It might need a different parameter for the function to work.	 	 	 	 	 	 
+ return value is improperly used.	 	 	 	 	 	 
+ none	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ It has to take integers as an argument.	 	 	 	 	 	 
+ "Im not sure it seems to look ok to me"	 	 	 	 	 	 
+ Looks like it should run	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ It seems you are calling backing array and it is undefined	 	 	 	 	 	 
+ wrong comparison	 	 	 	 	 	 
+ nothing	 	 	 	 	 	 
+ seems fine	 	 	 	 	 	 
+ side effects	 	 	 	 	 	 
+ na	 	 	 	 	 	 
+ O is 0	 	 	 	 	 	 
+ good	 	 	 	 	 	 
+ new CounterItem(item) might not return what you want it to. Check in that class	 	 	 	 	 	 
+ are you sure scope and scope 2 at 231 & 235 will always have everything you need?	 	 	 	 	 	 
+ I would look at the Section class that is getting passed in. There could be a missing property in there.	 	 	 	 	 	 
+ "You might not have any commands left in currentCommand so you cant pop anything."	 	 	 	 	 	 
+ "Theres inherent dangers in using a while loop. Doesnt seem like youre increasing the ordinal count improperly."	 	 	 	 	 	 
+ "you can set the length to an absolute value and cross your fingers. I know its a bandaid fix; but it would get around negatives. The optimal structure to use would be an ArrayList since those are dynamic by default and would keep you from having to keep growing the array and possibly prematurely running out of memory (if you have a lot). Since its INT based; you could simply just be passing too much into it."	 	 	 	 	 	 
+ "You could just be passing a bum arguments (a number thats too large) into it."	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ No idea	 	 	 	 	 	 
+ hm	 	 	 	 	 	 
+ I wish I knew	 	 	 	 	 	 
+ "not enough experience to understand whats going on"	 	 	 	 	 	 
+ not sure why	 	 	 	 	 	 
+ I check if counts has the key value inside otherwise I add it; the only problem could be if key is null; but it would trow an exception before than line 65	 	 	 	 	 	 
+ "problably because an item of scope2 doesnt support the method add"	 	 	 	 	 	 
+ "line 82 shoudnt cause a ClassCastException; probably more at line 79 could be caused"	 	 	 	 	 	 
+ probably the error is due to the fact that I do the pop without checking if I have a stack for doing the get	 	 	 	 	 	 
+ "Its not the common way to use the itarator; we could use ordinal.hasNext()"	 	 	 	 	 	 
+ NegativeArraySizeException means that (data.length * 3) / 2 return a negative value; I should check that is >	0	 	 	 	 	 
+ the constructor is not invocked at line 244	 	 	 	 	 	 
+ I think you are using the function incorrectly	 	 	 	 	 	 
+ Im not sure	 	 	 	 	 	 
+ The return value is improperly used in my opinion; use something different	 	 	 	 	 	 
+ Im not quite sure with this one	 	 	 	 	 	 
+ Might be using the wrong function; there are better options	 	 	 	 	 	 
+ The appropriate values are there; so there does not seem like it should produce something wrong when called.	 	 	 	 	 	 
+ there is an issue with the function in this case.	 	 	 	 	 	 
+ "I dont know enough Java to be sure that counts.entrySet() never returns a null object. I assume it never does."	 	 	 	 	 	 
+ "scope2.getItems returns an unmodifiable list. So we cant add to that list. "	 	 	 	 	 	 
+ getParent may not return an object with a method .layout()	 	 	 	 	 	 
+ I would like to know the values that currentCommand takes.	 	 	 	 	 	 
+ it could be that NO_MORE_ORDINALS is never returned by nextOrdinal(). Or the error could be in calculateVIntSize	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ it could be that one or both of v1 or v2 has a version above 32767; and when cast to short; it overflows. I think casting to short and then taking the max may fix the bug (instead of taking the max and then casting).	 	 	 	 	 	 
+ The loop is correct.	 	 	 	 	 	 
+ There is nothing wrong with the invocation of the function.	 	 	 	 	 	 
+ There is nothing wrong in the declaration of the function.	 	 	 	 	 	 
+ There is nothing wrong with the invocation of the function.	 	 	 	 	 	 
+ "There is nothing wrong with the invocation of function calculateVIntSize."	 	 	 	 	 	 
+ The new size value  "(data.length * 3) / 2" probably is too large. 	 	 	 	 	 	 
+ There is nothing wrong with the invocation of the function size.\nIn line 248 "max(v1.getVersion(); v2.getVersion())" probably returns a negative value.      	 	 	 	 	 	 
+ That boolean only determines whether the SB StringBuilder should have a comma appended.	 	 	 	 	 	 
+ Some where; it must be sending an instance of ReviewScope that does not have the getItems() method. So the code should check the instance type (typeof) of the intance; and only getItems if it is supported.	 	 	 	 	 	 
+ You should add code to ensure that Section is indeed a Label. You have to check that getSection() does return an object that is of type Label.	 	 	 	 	 	 
+ "The code is incorrectly assuming that there will be an element in the currentCommand to Pop. You cant assume that and should add code to first verify the current command has something to get; and; that it can be popped."	 	 	 	 	 	 
+ The while should be :  while (ordinal > 0 && ordinal < NO_MORE_ORDINALS)\n	 	 	 	 	 	 
+ The issue is that the length parameter is larger than the max value of the 2nd CopyOf of parameter. So once it overflows; it heads into negative territory. Check the max value that it can have and add code to handle it and throw a proper message; or to hand this copy in a different way.	 	 	 	 	 	 
+ "I cant see where the node ID and version are set on the clocks. it seems the original values are being loaded really high. It would seem on of the clocks has a really high value being retrieved from the meta data"	 	 	 	 	 	 
+ the counter is wrong	 	 	 	 	 	 
+ the problem is between the private and public class	 	 	 	 	 	 
+ should invoke a different function	 	 	 	 	 	 
+ although well documented i cant tell what is going on	 	 	 	 	 	 
+ wrong exit condition	 	 	 	 	 	 
+ missing or wrong type of parameter	 	 	 	 	 	 
+ should invoke a different function	 	 	 	 	 	 
+ improper value code	 	 	 	 	 	 
+ looks okay	 	 	 	 	 	 
+ needs a qualifier	 	 	 	 	 	 
+ acceptable	 	 	 	 	 	 
+ does not compute expected result	 	 	 	 	 	 
+ Looks acceptable	 	 	 	 	 	 
+ unanticipated side effects	 	 	 	 	 	 
+ The NPE is occuring somewhere else for sure.	 	 	 	 	 	 
+ "Youre missing implementation of the method add."	 	 	 	 	 	 
+ The actual issue is with line 79; where you are trying to cast section.getTextClient which might not stick to the interface expected by textClientLabel. 	 	 	 	 	 	 
+ Need more information regarding what currentCommand is; there is certainly some issue with using .get() chained with .pop	 	 	 	 	 	 
+ Code missing! Please check the value of NO_MORE_ORDINALS and confirm that nextOrdinal returns NO_MORE_ORDINALS.	 	 	 	 	 	 
+ All of this is in-memory; hence what is happening is that the RAM is overflowing at some point of time there.	 	 	 	 	 	 
+ At some point of time; the version of the node was changed to be greater than 32767. the code related to returning version should not assume Java will autobox the variable. Another big issue which is causing fuziness in debugging is the fact that when "creating a new node" the version can go above the 32767 value; as the only check done is for <0. So if the created a precondition for checks; it would help you get the exact object that has a version > 32767; thereby working around the "negative" values.	 	 	 	 	 	 
+ Since the code compiles; there is no problem with the method signature.	 	 	 	 	 	 
+ There is no difference in changing the places. 	 	 	 	 	 	 
+ If getTextClient() returns String; the cast cannot be done	 	 	 	 	 	 
+ The thread was initialized and is running. So probably the problem is in another place.	 	 	 	 	 	 
+ "I should have more details; because I dont know if ordinals.iterator() returns a OrdinalIterator"	 	 	 	 	 	 
+ Considering that data is an Array and it is also not null; there is no problem.	 	 	 	 	 	 
+ Probably the problem is in another part of the code; maybe in the place where the versions are initialized 	 	 	 	 	 	 
+ It states Program execution causes ClassCastException; which leads me to believe that there is an issue.	 	 	 	 	 	 
+ It does not produce any of those messages.	 	 	 	 	 	 
+ It has unanticipated side effects	 	 	 	 	 	 
+ I would assume this; because of the data.length * 3) /2)	 	 	 	 	 	 
+ There does not appear to be a problem with this line.	 	 	 	 	 	 
+ It seems okay to me.	 	 	 	 	 	 
+ Why should it be there? The invocation seems in order; as long as PatchLineComment has a getWrittenOn method	  even if it returned a null pointer	 presumably setCreationDate can assign null to a date value.	 	 	 	 
+ No	 " if there are none	 the for loop should simply exit	 as the initial value of item will exceed null if it happens to be returned."	 	 	 
+ It looks fine.	 	 	 	 	 	 
+ "Im not sure I see any casting done there. However; textClientLabel is cast from the result of the method section.getTextClient(); so perhaps the exception is thrown between lines 80 and 83 because textClientLabel was not successfully cast earlier?"	 	 	 	 	 	 
+ The pop is not subordinated to the object in the appropriate way. Need parens?	 	 	 	 	 	 
+ The body of the while loop seems to be in order; but whether or not it ever ends depends on nextOrdinal (and how it behaves when given its data in the case in question). If the ordinals in question can be iterated over successfully; and nextOrdinal sets NO_MORE_ORDINALS appropriately once there are no more ordinals in the given OrdinalSet; then this particular while loop should not be the problem (a debugger or a test output would be helpful to pinpoint the problem).	 	 	 	 	 	 
+ If the exception is thrown for data larger than 2GB / 3; that suggests that for such data; three times the data length divided by two exceeds the allowable range of values for the second parameter to copyOf; perhaps because of a typing problem; so that the result of the arithmetical operation is no longer a real number greater than or equal to 1.	 	 	 	 	 	 
+ i is a loop variable initialized to 0	 " it is only ever incremented within the while loop and stops being incremented if either it or its counterpart comes to equal the size of the two clocks	 which will presumably be in the range (1	 32767). So when the constructor for ClockEntry is called to initialize v1	 it shouldnt be being passed anything unusual. The calculation in line 248 looks more suspect."	 	 
+ Wrong exit condition	 	 	 	 	 	 
+ This should give correct result	 	 	 	 	 	 
+ No; this is fine	 	 	 	 	 	 
+ Needs different parameters to produce the correct result	 	 	 	 	 	 
+ This is fine	 	 	 	 	 	 
+ Yes; requires a parameter that is not listed	 	 	 	 	 	 
+ Would have unanticipated side effects	 	 	 	 	 	 
+ Lines between60 and 66	 	 	 	 	 	 
+ Rong for-loop	 	 	 	 	 	 
+ Because of misplaced parentheses	 	 	 	 	 	 
+ It doesnt have enough info	 	 	 	 	 	 
+ Because it is indefinite	 	 	 	 	 	 
+ Because of the incorrect return value	 	 	 	 	 	 
+ Yes	 	 	 	 	 	 
+ If the result of gerritComment.getMessage() is less than 10 one may get the exception	 	 	 	 	 	 
+ if key ends up with null; the result of counts.containsKey could be null will cause NullPointerException	 	 	 	 	 	 
+ Not sure where we are defining scope private ReviewDslScope mapScope(ReviewScope scope) {	 	 	 	 	 	 
+ it is conconatoion of strings	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ Not sure what the value of NO_MORE_ORDINALS i	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ result of Math.max is converted to short from long. Not sure if this will throw the exception	 	 	 	 	 	 
+ not worked so much with SWT	 	 	 	 	 	 
+ Not much proficiency in threading.	 	 	 	 	 	 
+ Maybe.As the limit for Integer in Java is 2^31 it might go negative after certain iterations of that function. better to have an exception associated with it.	 	 	 	 	 	 
+ "No there will be no side effects as node id in ClockEntry will always be a short as its constructors validates it while creation."	 	 	 	 	 	 
+ This should have more symbols in order to work.	 	 	 	 	 	 
+ This looks good	 	 	 	 	 	 
+ I think this needs more symbols in the code to show what you are trying to get	 	 	 	 	 	 
+ I am not sure	 	 	 	 	 	 
+ This looks good	 	 	 	 	 	 
+ hard to tell	 	 	 	 	 	 
+ To me it looks as it should work.	 	 	 	 	 	 
+ I am not sure	 	 	 	 	 	 
+ "Section isnt a identifier"	 	 	 	 	 	 
+ There is no parameter that is needed to be listed in grow()	 	 	 	 	 	 
+ no error found	 	 	 	 	 	 
+ spacing	 	 	 	 	 	 
+ wrong character used	 	 	 	 	 	 
+ Possibly; yes	 	 	 	 	 	 
+ function produces an incorrect return value	 	 	 	 	 	 
+ i have no idea	 	 	 	 	 	 
+     i dont have idea	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ not sure	 	 	 	 	 	 
+ "possible the add method doesnt support adding null value?"	 	 	 	 	 	 
+ What does type Label.getParent return?  Does it have a layout method?	 	 	 	 	 	 
+ "It doesnt seem like there may be an error in the area."	 	 	 	 	 	 
+ That can be normal; depending on the server.	 	 	 	 	 	 
+ "There is chance of negative array size exception for data over taking the data which is larger than 2 GB/3. It may cause some wrong with the values of the parameters received by function copy of when called by function grow at line 121. "	 	 	 	 	 	 
+ return value is improperly used	 	 	 	 	 	 
+ Space after end; 2nd thread and executing 	 	 	 	 	 	 
+ I believe it is correct. 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ it may have quotes.	 	 	 	 	 	 
+ it repeats the loop until the condition becomes true.	 	 	 	 	 	 
+  application is trying to use or access an object whose reference equals to null	 	 	 	 	 	 
+ code has attempted to cast an object to a subclass of which it is not an instance.	 	 	 	 	 	 
+ this.data = Arrays.copyOf(data; (int)(((long)data.length * 3) / 2))	 	 	 	 	 	 
+ Each "item" object may be of a subclass of IReviewScopeItem such that the mapScopeItem method is undefined for that object\s class.	 	 	 	 	 	 
+ ordinal may be NULL in which case it is never checked against	 	 	 	 	 	 
+ "get().pop() doesnt look right to me"	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ it looks okay	 	 	 	 	 	 
+ "I really cant tell "	 	 	 	 	 	 
+ function may give incorrect return value after execution of function	 	 	 	 	 	 
+ It looks to be ok	 	 	 	 	 	 
+ the call of function is not explixit	 	 	 	 	 	 
+ scope2 is trying to add elements to its list; which will not be possible because the returned list is an unmodifiableList	 	 	 	 	 	 
+ It is not clear what value NO_MORE_ORDINALS holds. One problem that could occur is totalSize runs over the maximum int size or ordinal never equals NO_MORE_ORDINALS. Should also add ordinalIterator.hasNext() or equivalent to while loop	 	 	 	 	 	 
+ Code seems functional from what is provided; there may be exceptions in certain applications.	 	 	 	 	 	 
+ "I think its fine."	 	 	 	 	 	 
+ It looks fine.	 	 	 	 	 	 
+ It looks fine to me.	 	 	 	 	 	 
+ calculateNumPopulatedBytes	 	 	 	 	 	 
+ NegativeArraySizeException	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ try changing patch set change text client 	 	 	 	 	 	 
+ not enough information	 	 	 	 	 	 
+ "Item has not been initialized; thereby resulting in Null Pointer exception"	 	 	 	 	 	 
+ Copyof() function takes two parameters - (original; newLength). So the syntax at line 121 is correct	 	 	 	 	 	 
+ sorry	 	 	 	 	 	 
+ its wrong	 	 	 	 	 	 
+ should not use both methods together with currentcommand.	 	 	 	 	 	 
+ "it doesnt have the capacity to store the data with that return type."	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ No errors	 	 	 	 	 	 
+ I can not detect any errors	 	 	 	 	 	 
+ No errors	 	 	 	 	 	 
+ I do not see any errors	 	 	 	 	 	 
+ Should be ClockEntry v3	 	 	 	 	 	 
+ getSection() method in line 4 and line 26 is not called with class or instance	 	 	 	 	 	 
+ If the pointer in line 4 is greater than data.lenth then the array should grow as well.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ they not using the full command to call a function	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ nil	 	 	 	 	 	 
+ nil	 	 	 	 	 	 
+ nil	 	 	 	 	 	 
+ nil	 	 	 	 	 	 
+ Is mapScopeItem a method?	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "it doesnt have the storage capacity."	 	 	 	 	 	 
+ The code is trying to add to a list of unmodifiable items. The add method is probably not supported.	 	 	 	 	 	 
+ There may be no elements left to pop at that point in the code.	 	 	 	 	 	 
+ NO_MORE_ORDINALS might be set to a value lower than the original ordinal; therefore the ordinal will never equal it and therefore will never break from the loop.	 	 	 	 	 	 
+ Pointer values can be decimal. So I think probably there are no issues with the code.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "There may be times when you want to pass a Collection or Map to another class but you want to insure that the object you pass is not changed. You can do this by passing an unmodifiable Collection or Map. The Collections class provides methods to create an unmodifiable view of a Collection or Map. This view is not a copy of the original object but simply passes through all methods that dont change the contents of the object. All other methods will throw an UnsupportedMethodException. This limitation is true for the object itself; any iterators created from the object; as well as any Collections created (in the case of a Map). Here are the methods to create unmodifiable objects:\n\nCollection unmodifiableCollection(Collection c)\nList unmodifiableList(List l)\nMap unmodifiableMap(Map m)\nSet unmodifiableSet(Set s)\nSortedMap unmodifiableSortedMap(SortedMap s)\nSortedSet unmodifiableSortedSet(SortedSet s)"	 	 	 	 	 	 
+ simplify your application	 	 	 	 	 	 
+ "I cant find solution for this."	 	 	 	 	 	 
+ Wrong algorithm applied	 	 	 	 	 	 
+ "Seems like i cant find the solution for this."	 	 	 	 	 	 
+ getItems return items collection not single item	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "Ive never gotten this specific bug before; but from what Ive read it does not seem to be an issue with grow"	 	 	 	 	 	 
+ "I genuinely dont know whats going on here..."	 	 	 	 	 	 
+ I genuinely do not know what is going on here	 	 	 	 	 	 
+ no data is showing	 	 	 	 	 	 
+ no data is showing	 	 	 	 	 	 
+ type cannot pass as argument in get().	 	 	 	 	 	 
+ As the function is static void endCurrentThreadExecutingCommand().	 	 	 	 	 	 
+ syntax is correct.	 	 	 	 	 	 
+ In the function grow(); the return type is void. so no need of any return statement. so function body is correct. 	 	 	 	 	 	 
+ "There is an append in the immediately preceding line; which presumably has not failed; so sb cant be null\n line 77 should therefore be okay."	 	 	 	 	 	 
+ May not be able to cast section.getTextClient to Label and that may return a ClassCastException.	 	 	 	 	 	 
+ Possible overflow problem when length of data is greater than 2Gb and returns negative. I see that this very same issue is already fixed in this checkin on github: https://github.cometflixetflix-graph/commit/1b321f79912bad53a8198243cecf01748ff45a8b 	 	 	 	 	 	 
+ does not properly handle error situations	 	 	 	 	 	 
+ "dont know"	 	 	 	 	 	 
+ "I have never had to use the OrdinalInterator. I cant help here."	 	 	 	 	 	 
+ "The only way I know of to get that error would be to actually have a negative number as the new size of the array. I cant find how exactly it would be giving a negative number unless (data.length * 3) / 2) ends up being too large since it is an integer value."	 	 	 	 	 	 
+ Program is not working properly because we are creating the object for the method in same method itself	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ unable to find	 	 	 	 	 	 
+ Needs to set perameter	 	 	 	 	 	 
+ should be at a different place in the code	 	 	 	 	 	 
+ correct format	 	 	 	 	 	 
+ correct funtion	 	 	 	 	 	 
+ loop is correct;there is no error.	 	 	 	 	 	 
+ Its correct.	 	 	 	 	 	 
+ mapScopeItem can return null. Perhaps we cannot add(null) to the items() collection.	 	 	 	 	 	 
+ Call to get() needs to be done after checking for hasMoreElement().	 	 	 	 	 	 
+ Depends on definition of NO_MORE_ORDINALS.	 	 	 	 	 	 
+ i dont know the answer correctly	 	 	 	 	 	 
+ get().pop() is incorrect	 	 	 	 	 	 
+ I am not sure about the grow function declaration in line number 121	 	 	 	 	 	 
+ The output will be wrong but the exception is right	 	 	 	 	 	 
+ "Its bit confusing"	 	 	 	 	 	 
+ If data.length ==  0; then data[pointer++] will have an error. \n 1; then (data.length*3)/2 will be 1 as well. data[]pointer++] will have an error as well. 	 	 	 	 	 	 
+ It looks like there is an overflow issue. When you add; the added value might be out of the range of the previous definition. For example; if the added value is mathematically larger than 32767 then an overflow will occur and the value might be negative as shown in the error msg. 	 	 	 	 	 	 
+ Wrong code at the wrong place. In line 24; you are taking an unmodifiable list and then in line 235 you are trying to add an item to it. You can add to an unmodifiable list. Either remove the unmodifiable restriction or just read the list without writing anything.	 	 	 	 	 	 
+ i am not sure	 	 	 	 	 	 
+ i am not sure	 	 	 	 	 	 
+ "i dont know"	 	 	 	 	 	 
+ i am not sure	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ "Its quite possible mapScopeItem is being used incorrectly; is not properly defined in the class; or the necessary library wasnt included."	 	 	 	 	 	 
+ Threading is complicated	 	 	 	 	 	 
+ Threading is complicated	 	 	 	 	 	 
+ It may be growing indefinitely; giving unexpected sizes greater than 2GB	 	 	 	 	 	 
+ Its possible and incorrec arument is passed into `new ClockEntry()` or `Math.max`	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The currentCommand.get().pop() method does not check for empty command list. A proper exception handling surrounding the get().pop() should solve this.	 	 	 	 	 	 
+ The function arrays.copyof needs to handle NegativeArraySizeException properly. JVM imposes the limit of 2GB for array size. Line 122 - data.length*3 will hit the threshold limit of 2GB. 	 	 	 	 	 	 
+ for (IReviewScopeItem item : scope.getItems()) { scope2.getItems().add(mapScopeItem(item))	 	 	 	 	 	 
+ "dont know"	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ It is not wrong	 	 	 	 	 	 
+ Not enough information	 	 	 	 	 	 
+ The line 78 tries to take something based on count - item.getType(count). This looks weird and could be the issue since nothing of that sort looks assigned to it anywhere else previously.	 	 	 	 	 	 
+ The getItems() in line 23 returns a unmodifiable list and so you cannot add anything to the list. Use it as read-only. Or if you really want to add; just return it in line 24 without making it unmodifiable.	 	 	 	 	 	 
+ Probably the getParent is trying to put some unexpected code at runtime. Make sure that getParent() is not ambigous or overloaded in an improper way	 	 	 	 	 	 
+ time will tell	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ look again; unable to tell	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The syntax scope2.getItems().add() seems odd. Although it may be the way your class is set up; I would expect to add items to the class rather than to a returned list of items.	 	 	 	 	 	 
+ .	 	 	 	 	 	 
+ All the statement write correctly.	 	 	 	 	 	 
+ Yes it does not compute the expected result....	 	 	 	 	 	 
+ I cant understand	 	 	 	 	 	 
+ i cant explain	 	 	 	 	 	 
+ Nothing is wrong	 	 	 	 	 	 
+ As the grow function is declared as void. it should not have a return statement 	 	 	 	 	 	 
+ in the condition both public and private it placed in right place.	 	 	 	 	 	 
+ function produces an incorrect return value; data length multiplies 3 and divides 2; it might wrong	 	 	 	 	 	 
+ "I cant tell  "	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ flower bracket	 	 	 	 	 	 
+ its correct	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Code is correct	 	 	 	 	 	 
+ nothing	 	 	 	 	 	 
+ nothing	 	 	 	 	 	 
+ "I think its to do with with the double true in line 82"	 	 	 	 	 	 
+ .pop() should go on a separate line. 	 	 	 	 	 	 
+ data.length * 3 creates a massive amount of data which causes the system to recognize it as 0; which is then divided by 3 creating the error. 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ Everything is fine.	 	 	 	 	 	 
+ I do not see anything wrong	 	 	 	 	 	 
+ Yes it has	 	 	 	 	 	 
+ yes it has	 	 	 	 	 	 
+ Not there	 	 	 	 	 	 
+ I feel the copyOf is a wrong type of parameter being used.	 	 	 	 	 	 
+ "This kind of error is triggered by the nextElement method; which isnt in the code provided."	 	 	 	 	 	 
+ I think its not producing the right result.	 	 	 	 	 	 
+ "It doesnt look like a problem to me."	 	 	 	 	 	 
+ "something is making the version a negative number but I cant figure out what. Maybe its in the clock.merge part on line 14 of the code that is calling it."	 	 	 	 	 	 
+ they are correct	 	 	 	 	 	 
+ i think so	 	 	 	 	 	 
+ nothing wrong	 	 	 	 	 	 
+ no issue	 	 	 	 	 	 
+ "The exception seems to imply youve put the wrong type of parameter in somewhere. I cant say more without knowing the API."	 	 	 	 	 	 
+ "Looks to me like youre getting integer overflow when data is too long (and therefore data.length is > MAX_INT/3). My first guess for a fix would be to assign data.length * 3 to a larger variable type; but thats only delaying the problem; not really solving it. You may have to restructure your code to use a more robust datatype."	 	 	 	 	 	 
+ None of the code below would emit UnsupportedMethodException.	 	 	 	 	 	 
+ since data.length is available in the public structure of source code;calling data.length using copyOf is not a problem	 	 	 	 	 	 
+ scope2 value used in for loop and main function	 	 	 	 	 	 
+ NEED TO ADD EXIT IN CLASS	 	 	 	 	 	 
+ "i dont know"	 	 	 	 	 	 
+ "i dont know"	 	 	 	 	 	 
+ "i dont know"	 	 	 	 	 	 
+ "i dont know"	 	 	 	 	 	 
+ "i dont know"	 	 	 	 	 	 
+ looks like we have this setup in a try finally block; should be okay	 	 	 	 	 	 
+ "Should be ok - assuming data.length cant be negative."	 	 	 	 	 	 
+ should we also be checking for versions > than the max short value?  this looks to be throwing the exception as designed if(version < 1)\nthrow new IllegalArgumentException("Version " + version + " is not in the range (1; "  \n                                               + Short.MAX_VALUE + ").") 	 	 	 	 	 	 
+ "Im sorry; Ive spent an hour on this task; and dont have any more time to spend."	 	 	 	 	 	 
+ getTextClient may return any object which is of a subclass of the "Control" class; not just a Label object. So; this error is caused when getTextClient returns an object other than a label; which is then attempted to be cast to a Label object.	 	 	 	 	 	 
+ "Im sorry; Ive spent an hour on this task; and dont have any more time to spend."	 	 	 	 	 	 
+ Looks like the second parameter of copyOf is evaluating to a negative number. The Array.length variable is stored as an int; which has a maximum value of 2;147;483;647. If it is increased above that; it will overflow and the result will be a negative number. So when data.length is greater than 715;827;882; then data.length * 3 will overflow and produce a negative; which then gets divided by 2 and passed in to the copyOf method; generating this error.	 	 	 	 	 	 
+ "Im sorry; but without a general understanding of the implementation of the VectorClock class; I cant troubleshoot this."	 	 	 	 	 	 
+ Maybe the declaration is wrong and the functions parameters are not being used.	 	 	 	 	 	 
+ Incorrect return value	 	 	 	 	 	 
+ The method defined is wrong.	 	 	 	 	 	 
+ "It seems there is no possibilities of wrong with the body of function grow between lines 120 and 122."	 	 	 	 	 	 
+ What are the values in the Arrays.copyOf ?	 	 	 	 	 	 
+ wrong parameter	 	 	 	 	 	 
+ argument fails.	 	 	 	 	 	 
+ wrong variables used as paramters	 	 	 	 	 	 
+ the format is all correct	 	 	 	 	 	 
+ this is correct; just a basic getter	 	 	 	 	 	 
+ this is correct	 	 	 	 	 	 
+ The code looks correct; and should work since everything is setup properly.	 	 	 	 	 	 
+ "I cant tell "	 	 	 	 	 	 
+ have no idea	 	 	 	 	 	 
+ no. looks good	 	 	 	 	 	 
+ No error found. It is based on the procedure.	 	 	 	 	 	 
+ it follows the procedure. No error occured.	 	 	 	 	 	 
+ it follow all the steps. And the all steps were neat and correct. So there is no wrong in the body.	 	 	 	 	 	 
+ because thid happens alot and ometimes just restartingit works	 	 	 	 	 	 
+ there u isnt enough info	 	 	 	 	 	 
+ an error in the system try resting it or CLEARING the catch	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ The parameter to be passed to Arrays.copyof is an array and numeric value. And in the below snippet the function has an array "data" and numeric value as parameters.	 	 	 	 	 	 
+ if the goal is to end the list with a space then this is fine	 	 	 	 	 	 
+ There seems to be a lot of spaces between " " in line 81; but I don\t know if this is a problem. I\m not sure if Label is properly defined in line 79.	 	 	 	 	 	 
+ I\m no sure if "data.length" would indicate file size (in gigabytes). It also looks like it should be 2/3; not 3/2.	 	 	 	 	 	 
+ It looks ok to me; could form an error message possibly. 	 	 	 	 	 	 
+ The function is producing a correct return value. 	 	 	 	 	 	 
+ "I cant tell from this code. "	 	 	 	 	 	 
+ The return value is correct and is in the correct place. 	 	 	 	 	 	 
+ function written incorrectly.	 	 	 	 	 	 
+ the data length can become a non-integer	 	 	 	 	 	 
+ No clue.	 	 	 	 	 	 
+ No clue.	 	 	 	 	 	 
+ I THINK ITS IN THE RIGHT PLACE & DOES THE RIGHT WORK OF ADDING THE ITEMS AFTER GETTING IT	 	 	 	 	 	 
+ BUT THERE IS NO declaration & definition for getparent()method	 	 	 	 	 	 
+ YES; POP FUNCTION MIGHT BE PLACED IN A SEPARATE LINE AT THE NEXT STEP OR SOME OTHER PLACE IN THE METHOD	 	 	 	 	 	 
+ "Cant see full code."	 	 	 	 	 	 
+ Not thread safe.	 	 	 	 	 	 
+ No error	 	 	 	 	 	 
+ There is no error	 	 	 	 	 	 
+ Error in that line	 	 	 	 	 	 
+ no	 	 	 	 	 	 
+ idk	 	 	 	 	 	 
+ "I only have a basic understanding of Java; and Im not familiar with the below code."	 	 	 	 	 	 
+ it probabaly not	 	 	 	 	 	 
+ i cant guess	 	 	 	 	 	 
+ it will be yes	 	 	 	 	 	 
+ This different function has unanticipated side effects	 	 	 	 	 	 
+ Yes because there should be a variable inside the parameters of grow. 	 	 	 	 	 	 
+ I see no errors	 	 	 	 	 	 
+ If there is a NegativeArraySizeException for data larger than 2GB/3; then perhaps you should always check if data.length is positive first; before calling the function grow(). Putting in an error check before calling this function will avoid this exception.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ it looks correct	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ at 80th line "!" symbol is present inside bracket so when we execute it it will give exceptional error	 	 	 	 	 	 
+ "I cant tell"	 	 	 	 	 	 
+ getItems() function is not given in the source code	 	 	 	 	 	 
+ It should be working correctly if nextOrdinal() is implemented correctly (not shown in the source code)	 	 	 	 	 	 
+ No Such Element implies that currentCommand is out of scope.	 	 	 	 	 	 
+ "I dont know where the bug is. Are you confirming that calculateVIntSize is returning valid data? "	 	 	 	 	 	 
+ "If data.length * 3 /2 results in a data value too high; which overruns on a signed data type; it will flip the left-most bit and become negative. Is this defined as an unsigned type? Is it large enough type to hold the result?\nI dont think this is at all related; but where/how is data scoped? You arent passing data into any of the three functions shown; so it seems to be scoped global or at least global to this code. Is that an issue?    \n\n"	 	 	 	 	 	 
+ "Cant tell; the only issues that there might be on that specific line are if the second parameter is not of type int. However; since that probably isnt the issue; see if anything is returning a -1 when you are to access the size of the array."	 	 	 	 	 	 
+ it looks good to me	 	 	 	 	 	 
+ "I cant see where it is supposed to be."	 	 	 	 	 	 
+ Correct parameters. Could be related to database query not supporting method.	 	 	 	 	 	 
+ Should check if currentCommand.get() has any elements before attempting to pop.	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
