@@ -22,7 +22,7 @@ removeLinesAboveValue <- function (dataframe, columNumber, value){
   dataframe <- dataframe[-lines,]
 }
 
-#Remove lines if we now the name of the column
+#Remove lines if we know the name of the column
 remLinesDataFrame <- function(dataframe,dataframeColumn,value){
   #dataframe<-dataframe[!(dataframe$columnName==value) ,]
   dataframe<-dataframe[!(dataframeColumn==value) ,];
@@ -86,6 +86,14 @@ countNumbers<- function(vector){
   percent<-(df$Freq/total)*100
   return (cbind(df,percent));
 }
+
+
+##Remove empty columns
+removeEmptyElements <- function(vector){
+  columns <- which(vector[]=="");
+  vector <- vector[-columns];
+}
+
 
 ##################################################################################
 
